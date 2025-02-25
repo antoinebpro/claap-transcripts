@@ -70,6 +70,33 @@ def save_to_github(content, path, message):
         logger.error(f"Erreur lors de la sauvegarde sur GitHub: {e}")
         return False
 
+def save_metadata(recording, formatted_date, filename):
+    """Sauvegarde les métadonnées dans un fichier JSON."""
+    try:
+        metadata = {
+            "title": recording.get("title", "Sans titre"),
+            "date": recording.get("createdAt"),
+            "channel": recording.get("channel", {}).get("name"),
+            "labels": recording.get("labels", [])
+        }
+        
+        # Créer le nom du fichier metadata (même nom que la transcription mais en .json)
+        metadata_filename = filename.replace(".txt", ".json")
+        metadata_path = f"claap_transcripts/metadata/{metadata_filename}"
+        
+        # Sauvegarder sur GitHub
+        content = json.dumps(metadata, indent=2, ensure_ascii=False)
+        if save_to_github(content, metadata_path, f"Add metadata for: {metadata['title']}"):
+            logger.info(f"Métadonnées sauvegardées: {metadata_filename}")
+            return True
+        else:
+            logger.error(f"Échec de la sauvegarde des métadonnées: {metadata_filename}")
+            return False
+            
+    except Exception as e:
+        logger.error(f"Erreur lors de la sauvegarde des métadonnées: {e}")
+        return False
+
 @app.get("/")
 def read_root():
     return {"status": "ok"}
@@ -115,9 +142,12 @@ async def claap_webhook(request: Request):
                     filename = f"{formatted_date}_{title.replace(' ', '_')[:50]}.txt"
                     path = f"claap_transcripts/transcripts/{filename}"
                     
-                    # Sauvegarder sur GitHub
+                    # Sauvegarder la transcription
                     if save_to_github(content, path, f"Add transcript: {title}"):
                         logger.info(f"Transcription sauvegardée: {filename}")
+                        
+                        # Sauvegarder les métadonnées
+                        save_metadata(recording, formatted_date, filename)
                     else:
                         logger.error(f"Échec de la sauvegarde de la transcription: {filename}")
                 else:
