@@ -1,0 +1,296 @@
+[2024-10-16_11-59-28] Géraldine FERRY et Romain ROUSSELET
+
+00:00 speaker_0: C'est tout bon. Comment allez-vous déjà ?
+00:03 speaker_1: Très bien, merci, impeccable.
+00:05 speaker_0: Super. Vous êtes dans quel coin, dans quelle région ?
+00:08 speaker_1: Je suis à côté de Lyon, à 50 km de Lyon.
+00:12 speaker_0: Ok. Où ça va, dans quel coin ?
+00:14 speaker_1: À Tarare.
+00:16 speaker_0: Ah, je vois. Très bien. Très bien.
+00:17 speaker_1: Il n'y a pas beaucoup.
+00:20 speaker_0: Je suis lyonnais.
+00:22 speaker_1: Je suis lyonnais,
+00:23 speaker_0: oui. D'accord. Je vois assez bien. J'avais un copain qui avait une maison de campagne là-bas quand j'étais à la fac. J'y ai passé pas mal de temps. Il y a des coins sympas dans le coin. OK.
+00:36 speaker_0: Ça vous dérange ?
+00:37 speaker_1: Je suis une mauvaise...
+00:39 speaker_1: Je n'habite pas dans le coin. Je vis sur Lyon. Je fais les allers-retours. Mais c'est vrai que la région est sympa. Mais un peu trop pour moi, un peu trop campagné.
+00:48 speaker_0: Ça vous dérange si on se tutoie le jardin ou quoi ?
+00:51 speaker_1: Non, plus du tout.
+00:52 speaker_0: OK, ça marche. Bon, écoutez. Écoutons, du coup, on va pouvoir démarrer.
+01:02 speaker_0: Pour récapituler, on a 45 minutes devant nous. Le but de cet échange, ça va être de comprendre un petit peu ce qui t'amène et ta situation actuelle.
+01:12 speaker_0: Je te préviens, je vais te poser beaucoup de questions et j'en suis désolé.
+01:16 speaker_0: C'est un peu la première consultation patient, mais c'est important pour moi d'avoir tout le contexte, en plus de ce que tu m'as déjà fait parvenir par le questionnaire.
+01:24 speaker_0: Deux possibilités à l'issue de cet échange.
+01:31 speaker_0: Soit tu rencontres une situation où tu as un challenge ou un objectif que Christine ne peut pas accompagner et auquel cas j'essaierai juste de te réorienter vers des solutions que je connais ou du moins qui me paraissent être les bonnes.
+01:45 speaker_0: Soit Christine peut avoir de l'impact tout de suite.
+01:47 speaker_0: Et dans ce cas-là, j'évaluerai simplement si tu réponds aux critères de sélection qu'elle pose pour accompagner les orthos. Et puis derrière, je pourrais t'expliquer comment on peut travailler ensemble sur les prochaines semaines. Est-ce que ça te va ?
+02:00 speaker_1: Oui, tout à fait.
+02:01 speaker_0: Super. Déjà, la première question que j'aimerais te poser, j'ai lu le questionnaire que tu m'as rempli, je te remercie.
+02:09 speaker_0: Toi, tu as d'autres associés dans ta structure ? Non. C'est des collègues ?
+02:17 speaker_1: Non plus. On est sur un plateau, en fait, il y a 11 dentistes, mais on est trois cabinets juxtaposés.
+02:23 speaker_1: On a été associés avant, au départ, avec celui qui a créé le cabinet, puis on s'est séparés parce que nos activités se séparaient. de plus en plus. Moi, je ne suis pas orthodontiste sexiste, je suis orthodontiste, j'ai fait des petits parcours parallèles. Et du coup, on a séparé nos activités, mais on est sur le même plateau, donc on a trois entrées de cabinets différentes. Donc, dans ma partie d'orthodontie, je suis toute seule avec six salariés.
+02:48 speaker_1: Ok, donc,
+02:51 speaker_0: il n'y a pas de lien entre tous les cabinets ? Vous n'envoyez pas les patients ?
+02:55 speaker_1: Si, on s'envoie les patients, mais disons qu'il y a des fonctionnements différents. C'est ma question. On a des secrétariats différents, des salles radio différentes.
+03:06 speaker_0: Ok, très clair.
+03:11 speaker_0: Du coup, qu'est-ce qui t'a donné envie de réserver cet appel avec nous aujourd'hui ?
+03:17 speaker_1: Je fais déjà partie du groupe Porto Up.
+03:20 speaker_1: J'ai déjà beaucoup révolutionné ma façon d'exercer.
+03:25 speaker_1: Je travaille avec Mirona de Masterdoc depuis quelques temps.
+03:30 speaker_0: Que ce soit bien.
+03:31 speaker_1: Et moi, ce qui me manque, c'est clairement une belle analyse des données.
+03:37 speaker_1: J'ai du mal à être autonome là-dessus, sur savoir réellement combien de patients je dois rentrer. Je suis effectivement au taux de transformation.
+03:45 speaker_1: Je voudrais aussi qu'on améliore encore peut-être les… les blocages patients qu'on peut rencontrer, parfois on peut être démuni par rapport à ça, alors qu'on sait que c'est le bon traitement et qu'il y a des choses qu'on débloquera certainement jamais, mais il y a peut-être des choses parce qu'on n'a pas les bonnes clés qui ne se débloquent pas.
+04:05 speaker_1: Et puis j'ai 53, donc je me dis que j'ai un bon rythme de travail et peut-être que l'idée d'analyser pour éventuellement une future association.
+04:17 speaker_1: d'ici 5-6 ans, pas tout de suite, mais voilà comment le faire, quels chiffres, comment programmer ça, comment aussi améliorer la rentabilité clairement, qu'est-ce qu'on peut faire.
+04:31 speaker_0: C'est ce que tu indiquais dans le questionnaire, tu parlais de rentabilité.
+04:38 speaker_0: Alors l'optimisation globale je comprends, la rentabilité, qu'est-ce qui se passe en fait ? C'est que tu considères que la rentabilité n'est pas suffisante aujourd'hui ?
+04:48 speaker_1: Alors elle le devient, elle n'a pas toujours été.
+04:52 speaker_1: Et peut-être qu'il y a des points de choses d'organisation, de commandes. Je ne sais rien, je commande via Ortop, donc j'ai des prix.
+05:02 speaker_1: Voilà, mais peut-être des choses à réfléchir de manière… Pour optimiser, tout ce qui est planning, c'est déjà pensé chez moi. Il y a une prise de rendez-vous en ligne.
+05:15 speaker_1: J'ai été bêta-testeur pour Dental Monitoring, qui, du coup, je déclenche. On a testé leur solution et nous, on l'utilise. C'est-à-dire que ça ne passe même plus par le secrétariat. Quand, par exemple, il y a une action à mener à la gouttière 25, C'est directement programmé sur le logiciel.
+05:33 speaker_0: Trop bien.
+05:34 speaker_1: C'est un mentoring qui va générer le rendez-vous dans Hortalis sans que ça passe par le secrétariat. Donc ça, déjà, on a hyper optimisé l'organisation là-dessus.
+05:43 speaker_0: Oui.
+05:44 speaker_1: On vient d'être qualifié Cali-Horto.
+05:46 speaker_1: Donc ça, c'est un label qui est quand même exigeant. Donc, on a déjà bien progressé. Mais je pense qu'on n'est pas au maximum. Il y a plein de choses à faire encore, certainement.
+06:03 speaker_0: Tu disais à l'instant préparer une association. J'ai l'impression que tu faisais le lien entre rentabilité et association. Ça, c'est un truc qui mûrit dans ta tête depuis un moment déjà ? Non,
+06:16 speaker_1: c'est parce que je me dis que j'ai un bon rythme, mais peut-être que quand je vais à 60 ans, j'aurai peut-être moins envie de bosser autant. Donc, peut-être qu'en travaillant… trois jours et en partant trois jours avec quelqu'un, ça peut être louable.
+06:33 speaker_1: Est-ce que c'est possible ? Est-ce que le cabinet le permet ? Est-ce que c'est une bonne vision du projet ? Est-ce que ce n'en est pas une ? Est-ce qu'au contraire, non, il faut rester comme ça et le vendre tel quel plus tard ? Voilà, des interrogations.
+06:49 speaker_1: Et si jamais c'est possible, comment on organise ? Aussi dans l'organisation du cabinet, pourquoi ? que la personne qui arrive puisse se sentir aussi capable de développer son chiffre et son bien-être dans le cabinet. Et toi,
+07:06 speaker_0: tu parlais de trois jours, tu bosses combien de jours fauteuil aujourd'hui ?
+07:09 speaker_1: Quatre.
+07:11 speaker_1: Quatre ans.
+07:13 speaker_0: Quatre jours fauteuil.
+07:15 speaker_1: Et en plus, je travaille un peu de chez moi quand même pour tout ce qui est digital. Donc voilà, j'ai quand même pas mal d'horaires dans la semaine.
+07:25 speaker_0: Ok, en fait la question que je me pose, elle est peut-être plus macro, désolé, mais de ce que tu me présentes, j'ai l'impression que tu es rentré dans beaucoup de choses. Tu t'es fait qualifier, tu es dans un groupement qui te permet d'avoir des conditions d'achat, tu utilises deux outils qui sont le Mental Monitoring et le Master Doc. Grosso modo, j'ai l'impression que tu es dans une… Tu es déjà dans quelque chose d'optimisé depuis un petit moment.
+08:01 speaker_0: La question que je me pose, c'est de continuer à optimiser. Pourquoi ? Est-ce que c'est vraiment juste cette question de rentabilité ou il y a quelque chose derrière ? J'aimerais juste comprendre le pourquoi. Christine parle beaucoup du télos.
+08:17 speaker_1: Parce que moi, ça me rassure de savoir… de ne pas patauger dans le vide. C'est-à-dire que là, actuellement, je ne sais pas combien de patients je dois faire rentrer par an. Je ne sais pas quel est mon seuil de rentabilité. Je ne sais pas si j'augmente mes salariés.
+08:35 speaker_1: Si je peux, si je ne peux pas. Est-ce que c'est raisonnable ? Est-ce que ce n'est pas ? Toutes ces choses-là peuvent être intéressantes. Est-ce que je réinvestis ? Quelle est ma marge de manœuvre, en fait ?
+08:48 speaker_0: OK. En fait, ce qui te manque, c'est un poste de pilotage avec tous les indicateurs. Ok, d'accord, j'ai compris.
+09:07 speaker_0: Et pourquoi est-ce que… Parce que tu as quand même pas mal d'outils en place. MasterDoc, c'est un super outil, tu as bien fait de le prendre. Mais qu'est-ce qui… En fait,
+09:17 speaker_1: pourquoi…
+09:18 speaker_0: pas bien l'utiliser en fait je sais pas bien analysé c'est pas bon c'est pas le domaine où je suis à l'aise quoi et ça ça a toujours été le le le cas de gestionnaire pas une bonne gestionnaire et ok ok ma question autrement posée c'est est ce que tu as déjà essayé de de retrouver de la sérénité en ayant plus tu vois un poste de pilotage tu as déjà essayé de mettre des choses en place tu as déjà fait accompagner, tu as déjà essayé de faire des choses ou pas ?
+09:57 speaker_1: quel type de pilotage tu parles ?
+10:00 speaker_0: bah tu sais Ce que j'entends, c'est que tu me dis, je ne sais pas combien de nouveaux patients actifs je dois rentrer, combien je dois en débaguer.
+10:12 speaker_0: Grosso modo, sur tes chiffres pour seuil de rentabilité, ces chiffres, tu as déjà essayé de les obtenir ? Tu as déjà essayé de travailler pour pouvoir te faire une idée ? Non.
+10:23 speaker_1: Je suis assez novice. Je vois des taux de transformation dans MasterDoc, mais je vois que je suis pas… pas il perd bien faire mais il manque des connaissances voilà clairement il manque des connaissances d'utilisation et de mise en place de choses intéressantes qui pourraient être et c'est sûr que cet outil paraît incroyable puisque il semblerait même qu'ils puissent nous sortir des comme des points comme le faisait le comptable quoi des points financiers.
+10:53 speaker_0: Des soldes intermédiaires de gestion.
+10:55 speaker_1: Et c'est toujours très compliqué d'obtenir ça du comptable.
+11:01 speaker_1: Jamais dans les temps. Je pense que ça peut être intéressant.
+11:06 speaker_0: Ok. En fait, c'était ma question suivante. Tu as un comptable qui te fait des points réguliers ?
+11:13 speaker_1: Alors, c'était prévu, mais pas tout à fait.
+11:17 speaker_0: Ok. Mais tu as un comptable qui t'accompagne ?
+11:20 speaker_1: Oui, j'ai un expert comptable qui m'accompagne.
+11:23 speaker_0: Ok.
+11:26 speaker_1: je repars du du télo ce et il manque un détail c'est à quand je me suis orienté en fait j'avais j'ai eu une deux années extrêmement difficile ou voilà j'ai eu du mal à payer mes fournisseurs où ça a été très compliqué j'étais rouge rouge rouge suite à j'avais pris des collaboratrices que j'ai acquis j'ai fait des contrats très favorable pour elle Beaucoup trop. Donc, en fait, c'est moi qui ai financé leur poste. Et puis, notamment, il y a eu une partie avec pas mal de traitements où il fallait que je reprenne gratuitement derrière. Donc, j'ai eu deux années très,
+12:05 speaker_0: très compliquées.
+12:06 speaker_1: Et du coup, ça m'a un petit peu laissé un petit coup d'amer.
+12:11 speaker_1: Et j'aimerais ne pas refaire les mêmes erreurs. Et je sais que si ça a pu arriver, c'est parce que je n'avais pas eu cette vision-là. Et que c'était...
+12:21 speaker_1: Il y avait trop de sentiments dans la façon de gérer et pas assez de professionnalisme.
+12:26 speaker_0: Et c'était il y a combien de temps ça,
+12:28 speaker_1: Géraldine ?
+12:36 speaker_0: 2021,
+12:40 speaker_1: 22 je pense. Ok. Ça s'est remis d'aplomb en 23.
+12:44 speaker_1: mais 21-22 j'ai traversé une zone vraiment grosse de turbulences avec des départs toute l'équipe ça a été très compliqué ok et j'espère plus de sérénité je
+13:01 speaker_0: comprends et du coup le les questions que tu as sur désolé je suis pas là pour faire le petit mais C'est vraiment important pour moi de comprendre tout le contexte. Est-ce que les questions que tu te poses sur l'association, elles sont aussi liées à ces… Bien sûr. Oui, d'accord.
+13:20 speaker_1: Bien sûr, parce que c'est des gens que j'ai formés gratuitement, j'ai passé des heures, qui sont partis, qui ne sont pas partis de… Il y en a une qui n'est pas partie très proprement en plus.
+13:29 speaker_1: Donc, voilà.
+13:32 speaker_1: Mais on a toujours une part de responsabilité dans ce qui arrive. Donc, voilà. J'ai laissé assez d'espace pour que ça puisse se produire. Voilà. Après, on peut tomber sur une personne qui ne profite pas de l'espace disponible, mais on peut se boucler, de sécuriser.
+13:48 speaker_1: C'est vrai que maintenant, j'ai déjà beaucoup plus d'exigences sur comment ça pourrait se fonctionner. Mais voilà, je n'aimerais pas refaire cette erreur-là, même dans une association.
+13:58 speaker_1: Donc, voir peut-être que tout simplement abandonner l'idée, peut-être, ce n'est pas la bonne chose, ou alors bien le préparer.
+14:07 speaker_0: OK.
+14:09 speaker_0: écoute très clair merci du contexte et de la précision je pense que tu l'as tu l'as compris christine et nous au sein de l'équipe et ce depuis quand même pas mal d'années on bosse beaucoup en avec de la visualisation on bosse beaucoup avec des objectifs c'est ça qui nous a permis d'accompagner c'est ça qui a permis à christine et son mari de vendre un cab qui tournait bien c'est ça qui les a permis aussi d'accompagner tous les orkos qu'ils ont accompagné sur toutes ces années.
+14:42 speaker_0: C'est qu'on travaillait, enfin on travaille avec des gens qui ont des objectifs. Toi, tu aurais formalisé un objectif à court terme ? Si tu devais le matérialiser, ton objectif, ça serait quoi en fait ? C'est de la sérénité, mais la sérénité, est-ce que tu… Est-ce que tu arriveras à le rendre tangible ? Est-ce que c'est un seuil de rentabilité supérieur ? Est-ce que c'est moins de travail ? C'est de la charge mentale ? C'est quoi en fait ton… Alors,
+15:08 speaker_1: charge mentale, oui, mais ce n'est pas ce qui me pèse le plus parce que maintenant, je suis assez organisée.
+15:14 speaker_1: Donc, j'ai une équipe qui va bien. Donc, oui, c'est dense, mais je le vis pas mal parce que ce n'est pas du négatif. Voilà, c'est toujours… On aimerait toujours travailler un petit peu, moi, mais quand on a… Voilà, c'est… Moins travailler, oui, clairement, j'aimerais beaucoup. Parce que trois jours, du coup ? Oui, j'aimerais bien travailler trois jours, mais pas en fermant mon cabinet.
+15:37 speaker_1: Et puis, effectivement, avoir atteint une certaine sérénité financière, puisque ça m'a quand même un peu stressée pendant deux ans, fermant, c'était un petit peu difficile. Et je ne voudrais pas revivre quelque chose comme ça. Et je me dis que plus on visualise les choses, plus on les prévoit, plus on les imagine, plus on est moins dans la réaction à ce qui arrive, mais on peut suivre une ligne de conduite.
+16:09 speaker_0: Désolé, je reviens trois minutes avant, mais je comprends que ça a été difficile sur 21-22.
+16:19 speaker_0: Mais du coup, en fait, qu'est-ce qui fait que tu t'es sortie de cette situation ? C'est que tu t'es séparée de tous tes collabs ?
+16:25 speaker_1: Oui. Il y en a une qui devait partir parce qu'elle s'associait avec sa maman dans le sud, donc ça c'était prévu. Et la deuxième, je l'ai fait partir, oui. Je l'ai fait partir parce que ça n'allait plus.
+16:41 speaker_0: Ok, ça marche.
+16:47 speaker_0: Désolé, quand je vais finir, je vais essayer de rester avec les filles. Pas de problème. question que je voudrais te poser. J'imagine que tu serais très heureuse de pouvoir réduire ton temps de travail, supprimer un jour de ton planning pour avoir la sérénité financière que tu devrais avoir et surtout pour te projeter sur la suite. Je crois que c'est un super projet d'attention et de temps.
+17:16 speaker_0: Mais en fait ça changerait quoi de pouvoir atteindre tout ça ? Ça changerait quoi pour toi ?
+17:24 speaker_1: D'un point de vue professionnel ou d'un point de vue personnel ?
+17:27 speaker_0: Les deux.
+17:31 speaker_1: Parce que je me dis que si c'est bien organisé, je serais heureuse de travailler trois jours et je ne me sentirais pas coupable d'abandonner mes patients.
+17:39 speaker_1: Je ne veux pas me séparer de mon équipe parce que je les trouve super.
+17:43 speaker_1: Pour l'instant, de toute façon, je ne peux pas baisser mon activité, sinon je ne peux pas garder six salariés. Et voilà, donc les garder, les emmener dans un projet sympa et du coup que tout le monde soit serein. Et puis de mon côté, faire plus de trucs perso, du sport, du bien-être, d'autres choses, un peu de culture, toutes ces choses. On fait toujours un petit peu au compte-gouttes parce qu'on court un peu trop.
+18:08 speaker_0: Ok, super, Claire.
+18:11 speaker_0: En tout cas, j'ai l'impression que le projet d'équipe, c'est un truc qui t'intéresse beaucoup. Tu parles beaucoup de tes équipes, de tes salariés.
+18:17 speaker_1: Oui, parce que vraiment, on a fait un chouette projet. Et là, par exemple, Tailleur Tour, on l'a fait vraiment ensemble. Puis après, pour les remercier, je les ai emmenés. On est partis au Maroc. Je les ai emmenés au Maroc quatre jours. C'était sympa.
+18:29 speaker_0: Sympa.
+18:31 speaker_0: Où ça, au Maroc ?
+18:32 speaker_1: On est allés à Marrakech. Et on a fait… C'était chouette.
+18:38 speaker_0: OK. Bon, écoute, trois dernières questions. Et après, j'arrête de torturer avec mes questions. C'est pour vous.
+18:42 speaker_1: Non, non, c'est bien. C'est bien. C'est pas obligé. Un peu à réfléchir, c'est bien.
+18:49 speaker_0: En fait, la question que je me pose, c'est pour toi, qu'est-ce qui t'empêche là de, tu vois, d'atteindre la sérénité financière, de pouvoir réduire ton temps de travail, de te projeter aussi sur la suite ? C'est quoi le point bloquant ?
+19:06 speaker_1: Parce que je ne sais pas. Je ne sais pas ce qu'il faut. Je ne sais pas analyser.
+19:12 speaker_1: Je ne sais pas écrire mon projet, en fait.
+19:20 speaker_0: Ok, très clair.
+19:23 speaker_0: Juste avant de te présenter le programme, l'accompagnement, il y a deux questions que pour le coup, c'est Christine qui m'oblige à les poser, donc je me dois de te les poser.
+19:36 speaker_0: Tu l'as compris, on a une toute petite équipe.
+19:40 speaker_0: L'équipe, c'est grosso modo Christine, moi et deux autres personnes.
+19:45 speaker_0: Ce qui fait qu'on refuse beaucoup de monde parce qu'on n'a pas beaucoup de place, mais surtout on veut travailler avec des gens qui sont motivés.
+19:54 speaker_0: Par le passé, on a eu des gens qui sont rentrés, qui n'avaient pas forcément d'objectif clair. mais surtout qui nous prenait pour des magiciens.
+20:03 speaker_0: On n'est pas des magiciens.
+20:04 speaker_1: On est allés fort derrière,
+20:07 speaker_0: oui. Bah ouais. En fait, c'est ça mon point, c'est que...
+20:11 speaker_0: En fait, ma question c'est que nous on fait que du sur-mesure. L'analyse on va la faire, le plan d'action pour pouvoir atteindre ce que tu cherches à atteindre, ça on va le faire. Par contre, on n'est pas des magiciens, c'est-à-dire qu'on va t'aider à mettre en place tout ce qu'on va te demander de faire. Par contre, il faut que tu le fasses. Et la question que je veux te poser, c'est en fait, est-ce que tu es prête à te retrousser les manches ? Est-ce que tu es coachable ? C'est ça la question.
+20:37 speaker_1: Je pense que oui. Sinon, je n'aurais pas eu le calo et l'ortho et je ne serais pas chez OrthoHop depuis trois ans. J'aurais changé complètement mon activité. Je passais d'une activité, on va dire, d'orthodontie classique à un cabinet entièrement digital en trois ans. Je pense que c'est un bon signe.
+20:52 speaker_0: Est-ce que c'était pour tout le monde ?
+20:57 speaker_1: Récemment, c'est Masterdoc. On est toujours très curieux d'améliorer, de contrôler. On est avec Trello. On a un système d'organisation via Trello, par exemple. Ce sont des petites choses qui paraissent anodines, mais qui ont complètement révolutionné la façon de travailler.
+21:15 speaker_0: Et deuxième question.
+21:19 speaker_0: Quand est-ce que tu veux te retrousser les manches ? C'est ça la question.
+21:21 speaker_1: Quand est-ce que tu veux ? J'imaginais pouvoir laisser l'équipe tranquille, parce que je l'ai mis 2024, Cali-Orto, ils ont bien bossé. Donc, j'imaginais plutôt sur 2025, début 2025, pour que je les ai beaucoup sollicités cette année, pour que justement, il n'y ait pas… Alors, rien n'empêche que moi, je commence avant, mais c'est des choses qui vont forcément impliquer les plis.
+21:46 speaker_0: l'équipe je préférais attendre 2025 ok ok écoute je vais t'expliquer comment ça se passe bon écoute déjà merci beaucoup d'avoir partagé tout ça je sais que c'est pas toujours facile de donner de l'information exhaustive à la fois sur le pro sur le perso mais pour moi c'est hyper important de pouvoir voir tout le spectre parce que cet échange il va nourrir la suite je vois que tu es motivé Moi j'ai suffisamment d'informations en l'état et je fais partie de la typologie d'ortho qu'on peut accompagner.
+22:27 speaker_0: Tu as un objectif qui est tangible, qui est réalisable, qu'on sait accompagner et tu as envie de te retrousser les manches. Donc ça fait quand même beaucoup de points où moi je me dis ok on peut y aller.
+22:39 speaker_0: Est-ce que tu veux que je te réexplique comment se passe l'accompagnement avec Christine peut-être ?
+22:44 speaker_1: Volontiers, oui.
+22:45 speaker_0: Ok.
+22:46 speaker_1: C'est quelqu'un qui vous accompagne ou vous vous accompagnez aussi dans l'équipe ? Comment pardon ? C'est que Christine qui accompagne ou c'est tout, c'est n'importe qui de l'équipe ?
+22:55 speaker_0: En fait, avec le reste de l'équipe, nous on va travailler sur les dossiers, mais l'accompagnement c'est Christine de A à Z. D'accord. Tu l'as compris, Christine a été à la tête du plus gros cabinet d'orthodontie en France pendant plus de 20 ans, qui l'ont vendu avec son mari. Et là depuis 10 ans, je l'accompagne des orthos pour pouvoir créer des cabinets qui sont dans l'ordre, au service des praticiens, au service de leurs équipes et au service de leurs patients.
+23:26 speaker_0: Et en fait, toi, dans la façon dont tu me présentes les choses, ton cabinet est au service de tes patients, ça se sent, tu as investi énormément. augmenter la qualité de soins, tu m'as parlé de plein de labels, ça sent. Tu m'as parlé des vacances au Maroc que tu as payé à tes équipes donc ton cabinet est au service de tes équipes. Le sujet c'est que ton cabinet il est pas encore tout à fait à ton service tout simplement parce que tu n'as pas la sérénité nécessaire pour pouvoir te dire ok je suis pas juste en train de pédaler dans le vide, pédaler dans la semoule et ça parce que tu n'as pas les bons indicateurs Et ces bons indicateurs, elles t'empêchent d'aller là où tu veux aller.
+24:16 speaker_0: Et donc, ce qu'on fait avec Christine, c'est qu'on crée des cabinets qui sont dans l'ordre au service des orteaux, au service des équipes et au service des patients.
+24:24 speaker_0: Comment ça se passe ? Avant les quatre mois d'accompagnement, on va te demander de nous envoyer pas mal d'éléments qui vont nous permettre de réaliser un audit. Je t'enverrai tout par mail, ne t'inquiète pas.
+24:36 speaker_0: Le premier, c'est... tes quatre dernières semaines de planning.
+24:40 speaker_0: Le deuxième, ça va être tes trois derniers bilans.
+24:43 speaker_0: Une vidéo complète de ton cabinet détaillé, tourné à l'iPhone. On n'a pas besoin d'un monteur et d'un caméraman.
+24:48 speaker_1: Vous allez avoir mieux, parce qu'on a fait une vidéo de présentation de mon cabinet qui va être sur le site. Donc,
+24:53 speaker_0: je vous enverrai ça. Et bien, voilà. Et de répondre à un questionnaire qui prend une trentaine de minutes à compléter.
+25:02 speaker_0: Nous, avec tout ça et avec l'échange qu'on vient d'avoir, ça va permettre à Christine de tracer un plan d'action à mettre en place sur les 4 mois. Et en fait, pour démarrer tes 4 mois d'accompagnement, vous faites ce qu'on appelle un rendez-vous de lancement où tu es seul avec elle en visio.
+25:20 speaker_0: Elle, elle va te présenter le plan d'action qu'elle pense mettre en place avec toi pendant 4 mois. Et l'idée, c'est que tu puisses dire, OK, ça...
+25:29 speaker_0: cette action là je suis hyper à l'aise et on peut même pousser le courant plus loin ou alors à l'inverse ça en fait non ça fait pas partie de mes valeurs je suis pas ok de mettre ça en place et donc il faut qu'on trouve un autre moyen pour pouvoir atteindre l'objectif mais l'idée c'est qu'à la fin de ces deux heures vous ayez toutes les deux un plan clair et acceptable à mettre en place sur 4 mois et derrière pendant 4 mois on est tout simplement on met les mains dans le cambouis avec toi c'est à dire que on va t'accompagner point par point à mettre en place au cabinet. Ça passe par de l'informatique, ça passe par de l'organisation, ça passe par tout un tas de choses, mais on t'accompagne au quotidien pour pouvoir le mettre en place. Deux façons de le faire qui se complètent. Le premier, c'est qu'on crée un groupe WhatsApp qui te permet au quotidien de nous poser des questions et nous d'y répondre. Et ça, tu vois, ça te permet d'aller très vite et de ne pas attendre la fréquence d'une fois par mois ou une fois par semaine pour pouvoir avancer. On te répond dans la journée, tu peux mettre en place immédiatement.
+26:26 speaker_0: Et le second point, c'est que pendant ces quatre mois, tu as accès en illimité au calendrier de Christy pour bloquer des points de 30, 45, 60 minutes avec elle, pour là échanger sur des trucs plus profonds, qui nécessitent un temps plus long, comme on est en train de le faire aujourd'hui.
+26:40 speaker_0: Et en fait, les cumuls des deux, la répétition au quotidien qui te permet d'aller très vite, et le temps long qui te permet plus de poser les choses, d'échanger, potentiellement intégrer des membres de ton équipe si tu le souhaites.
+26:56 speaker_0: va te permettre au bout de 4 mois d'atteindre l'objectif que tu as fixé.
+27:02 speaker_0: Si au bout de 4 mois, on n'a pas atteint l'objectif qu'on s'est fixé ensemble, on dit ensemble, on continue de t'accompagner. Et c'est un peu la raison pour laquelle on filtre beaucoup, parce que tu as beaucoup de gens qui arrivent ici en disant oui, grosso modo, nos objectifs ne sont pas vraiment définis.
+27:18 speaker_0: Et nous, notre temps est précieux, le tien est précieux, on ne veut pas perdre du temps aux gens. Quand on ne comprend pas le projet ou quand on ne sait pas l'accompagner, on préfère dire non.
+27:29 speaker_0: Donc au bout de quatre mois, si on n'a pas tenu le but, il faut continuer de t'accompagner.
+27:37 speaker_0: Et voilà comment ça se passe. Donc une phase d'audit. Pendant cette phase d'audit, on est amené à te poser des questions sur le groupe WhatsApp, tu nous réponds. Le rendez-vous de lancement qui permet de fixer un plan d'action et de l'ancrer sur lequel tu es aligné avec tes valeurs, est-ce que tu es en mesure de faire ou non. et après quatre mois pendant lesquels on est à tes côtés pour pouvoir mettre en place tout ce qui va être nécessaire pour pouvoir retrouver de la sérénité qu'elle soit dans le contrôle ou dans la gestion financière de ton cabinet, réduire ton temps de travail et pouvoir te projeter sur la suite et sur le projet que tu souhaites mener à bien à moyen terme.
+28:13 speaker_1: Voilà comment ça se passe.
+28:18 speaker_0: Est-ce que c'est clair ? Est-ce que tu veux qu'on revienne sur certains points ? Il y a des points qui ne sont pas tout à fait clairs. On a vraiment le temps de poser toutes les questions, si tu le souhaites.
+28:27 speaker_1: Non, non, c'est bien, c'est clair. C'est vrai que moi, j'ai beaucoup réfléchi sur mes objectifs puisque j'ai changé. Donc, voilà, ça a été tellement un gain de temps. Mais mon Dieu ! C'est-à-dire que nous, maintenant, plus personne n'a… On a réduit, par exemple, les créneaux de téléphone. et les gens communiquent par chat ou par dental monitoring ah mon dieu ça râle un petit peu mais c'est quand même beaucoup mieux je filtre aussi les entrées cabinet moi, c'est à dire que je demande des photos avant qu'ils rentrent pour qu'ils viennent au bon moment et ça m'a permis ça par exemple j'avais presque un an d'attente à tomber à 3 mois c'est quand même intéressant
+29:18 speaker_0: Ok, ça marche.
+29:21 speaker_0: Pour répondre à une des questions que tu m'as posées auparavant, je vais la reprendre, tu m'as dit est-ce qu'on doit intégrer l'équipe ou pas. En fait, nous ce qu'on considère, c'est que la première partie de l'accompagnement, il faut que tu sois seul. Tu sais, on tient beaucoup l'image du capitaine de bateau, mais c'est vraiment quelque chose de laquelle on croit, c'est que c'est toi le capitaine de ton navire. Et en fait, pour la première partie, il faut que tu sois seul et il faut qu'on puisse commencer à dégrossir les choses ensemble. Et sur la seconde partie, c'est là où tu vas diffuser l'information, faire monter à bord les gens s'ils ont besoin de faire monter à bord, mais ça se trouve, ça ne sera même pas le cas.
+29:56 speaker_0: Mais il faut bien que ça soit distingué en deux temps. La première partie, où tu vas être seul avec Christine, et l'idée, c'est vraiment de... d'usiner ce qui est le mieux pour toi et la seconde partie où toi tu diffuses. On t'aide à diffuser si besoin et tu fais monter à bord les gens. Et donc pour répondre à ta question autrement, je pense que tes équipes, tu n'auras pas besoin de les solliciter avant 2025.
+30:16 speaker_1: D'accord, voilà. Mais je pense que c'est important que je respecte ce ton, parce que je leur ai promis de les laisser un peu tranquilles. Donc voilà, pour que…
+30:25 speaker_0: Après, si ça leur permet d'aller au Maroc une fois tous les trois mois… Ils seront peut-être d'accord.
+30:33 speaker_0: Je rigole, mais tu es la première prate à me dire qu'elle a emmené ses collabs dans un pays étranger pour les solliciter. Ce n'est quand même pas courant. Je prends soin de ton équipe, c'est bien.
+30:48 speaker_1: Quel y'a-t-il, Horto ? Quand on s'est lancé, on n'avait pas mesuré le truc, le pavé comme ça.
+30:54 speaker_0: Et tu sens que ça a eu un vrai effet ?
+30:58 speaker_1: Tout le monde m'a dit… beaucoup de boulot mais hyper fédérateur parce que tout le monde a compris l'intérêt. Il y a des choses par exemple où je vois, il y a des choses où j'arrive moins à leur faire comprendre, ça dépend. J'ai deux qui sont mariés avec des gens qui ont une activité libérale, là pas de problème, il y en a une qui sont mariés plombiers, elle a sa boîte donc elle voit très bien l'intérêt des clients entre guillemets. et l'autre, son mari est architecte, donc pareil. Mais les autres qui n'ont pas cette culture-là, c'est vrai qu'ils ne comprenaient pas. Par exemple, je dis, là, on a une petite baisse, on va relancer tous nos patients en attente qui sont venus en premier rendez-vous, qui, il y a longtemps, de mes collaborateurs, à l'époque, on ne mettait pas forcément des rappels automatiques. Je dis, on va les relancer pour, voilà, ne pas perdre ceux qui se sentent accompagnés, qui ne partent pas ailleurs.
+31:52 speaker_1: Ils avaient du mal à comprendre, par exemple, ça. Ça veut dire que ma façon de l'expliquer n'est pas bonne. s'ils ne le comprennent pas, c'est que je n'arrive pas à trouver le moyen de l'expliquer.
+32:02 speaker_0: Ouais.
+32:04 speaker_0: Non mais c'est, comme je te dis, c'est pas courant en fait.
+32:08 speaker_0: Pour le tourner autrement, t'as beaucoup de gens qui arrivent ici avec beaucoup de certitudes.
+32:12 speaker_0: Tu vois, des certitudes très fortes, tu le sais comme ça, et puis ça doit rester comme ça. T'as beaucoup de gens qui arrivent en disant pas tout. Et donc moi je dis, bah s'il n'y a pas de problème, pourquoi on parle, tu vois ? Donc je préfère le souligner parce que c'est pas... C'est pas commun d'avoir ce genre d'échange.
+32:32 speaker_0: Juste pour te projeter sur la suite, nous, il nous faut 10 jours pour pouvoir travailler un dossier à la réception de tous les éléments qui sont partagés.
+32:47 speaker_0: Voilà. Et 10 jours pendant lesquels on est susceptible de te poser des questions sur WhatsApp et sur lesquelles il faudra peut-être en consulter. Tu vas être... je peux avoir à nous envoyer le code. Tu m'as dit que tu bossais avec Hortadis ?
+32:58 speaker_1: Oui.
+32:59 speaker_0: Ouais, bon, typiquement, le type de questions qu'on peut avoir, c'est nous renvoyer le code couleur des rendez-vous pour qu'on ait la bonne nomenclature des actes, etc. Mais 10 jours sur lesquels on peut faire du ping-pong et sur lesquels on peut solliciter.
+33:14 speaker_0: Est-ce que tu as d'autres questions, interrogations, trucs qui ne sont pas clairs ? Oui,
+33:20 speaker_1: en tout cas, mon envie de diminuer, diminuer de...
+33:23 speaker_0: à mes trois jours je crois que je n'arriverai pas à le faire tant que je n'ai pas quelqu'un qui me remplace qui vient à ma place psychologiquement ça c'est psychologique parce que autant dire que des orthos, je crois que le mari avec Christine ne bossait que trois jours et des orthos avec lesquels on bosse et qu'ils ne bossent que trois jours, il y en a plein après encore une fois c'est là où le ping-pong va être intéressant sur le rendez-vous de lancement c'est qu'est-ce que tu as à faire c'est ça en fait
+33:54 speaker_1: ça va peut-être être définir est-ce que dans ce cas là on fait rentrer plutôt quelqu'un voilà ça peut être une réflexion c'est vrai que ça appuie sur des choses qui sont encore un petit peu fraîches chez moi pas hyper open pour l'instant mais je suis pas fermée donc je dis pas que voilà il faut voir quelles sont les bonnes solutions dans
+34:12 speaker_0: tous les cas les chemins proposés seront divers en fonction de ce sur quoi enfin encore une fois ici on parle à des humains On est entre-mains et il faut que le plan d'action qu'on trace ensemble et l'accompagnement qu'on fasse ensemble, il ne soit pas en opposition avec tes valeurs et avec tes convictions. Fondamentalement, sinon on sait qu'il ne va rien se passer. Il n'y a rien de plus que ce qu'on peut dire.
+34:37 speaker_0: On accompagne quelqu'un, il ne fait pas ce qu'on s'est engagé à faire ensemble.
+34:41 speaker_1: Je suis mon petit blocage.
+34:46 speaker_0: Non mais c'est noté.
+34:49 speaker_1: C'est éducatif, c'est-à-dire que moi je suis une bosseuse depuis toujours, j'ai été éduquée comme ça, donc je pense que le petit côté culpabilité au travail moins, c'est pas bien, le travail moins et le gagner plus, c'est un peu moche, vous voyez, je pense qu'il y a un peu ça aussi. Non mais ça fait partie des valeurs partagées. Moi je suis toute seule avec mes filles, donc avec un papa qui participe assez peu finalement. Donc voilà, aussi cette inquiétude que j'ai traversée qui était un peu douloureuse parce que ça a été vraiment financièrement très complexe. Elles ont quel âge tes filles ?
+35:26 speaker_0: 19 et 22. Je ne suis pas pas depuis 8 mois, tu vois.
+35:34 speaker_1: C'est la plus belle aventure au monde.
+35:38 speaker_0: Je commence à m'en rendre compte, mais je commence aussi en échangeant.
+35:41 speaker_0: Je ne sais pas si tu l'as remarqué, pas depuis 8 mois, mais en échangeant, je trouve qu'il y a une certaine connexion entre parents. Et les gens sont beaucoup plus, en parlant de leur parentalité, et je me rends compte aussi que les problématiques qu'on a eues, un bébé qui ne dort pas, qui ne veut pas manger, les problématiques évoluent et deviennent plus grosses.
+36:01 speaker_1: Non, je ne dirais pas ça comme ça, moi. Moi, j'ai une petite fille qui a été malade petite.
+36:07 speaker_1: Mais c'est tellement sympa, 19 et 22. Mais bon, petite problématique, petite anecdote rigolote. Ma fille m'appelle cette nuit. Maman, au secours, on m'a volé mon scooter. Donc, je pars la chercher et j'arrive et je passe devant son scooter. Je dis, mais elle est vraiment blonde, quoi. Elle n'avait pas eu des problématiques de 19 ans.
+36:28 speaker_0: Je n'en suis pas encore.
+36:30 speaker_1: Je n'en suis pas encore.
+36:31 speaker_0: Ça va arriver.
+36:33 speaker_1: Je ne trouve pas, même l'adolescence, pour travailler avec les adolescents, il y a des parents qui écrivent des trucs marrants. Oui, par moments, ça fight, mais si l'ado n'y va pas comme ça, si on arrive à... Moi, je trouve que c'est hyper marrant. J'ai toujours vécu ça en me disant, tiens, ma fille qui me dit, tu vois, comme tu t'habilles, tout ce que tu aimes, moi, j'aime le contraire. Mais ça m'a fait marrer parce que je me dis, mais c'est tellement la phrase d'ado, quoi. C'est extraordinaire.
+36:55 speaker_1: C'est... après on peut se vexer,
+36:57 speaker_0: on peut voir les choses différemment mais au contraire c'est rigolo et on s'entend très bien avec mes filles donc c'est une belle aventure en fait et en plus de ça toi tu es au contact tu dois être quand même au contact je ne sais pas si tu traites beaucoup d'adultes mais tu dois être au contact des enfants j'adore
+37:14 speaker_1: les petits les moyens c'est pas très difficile pour moi parce que c'est pas un effort
+37:23 speaker_0: C'est bien parce que si tu es au contact d'enfants toute la journée et que tu ne les aimes pas, ça devient compliqué.
+37:29 speaker_1: J'ai déjà entendu des orthos dire je n'aime pas les gosses C'est compliqué. Les enfants, pourquoi vous avez fait ce métier ?
+37:40 speaker_0: Géraldine, est-ce qu'il te reste des questions ? Est-ce que tu veux que je t'explique la suite ? Est-ce qu'il te reste des points d'interrogation ?
+37:52 speaker_1: Pas pour l'instant, non.
+37:55 speaker_1: J'imagine que je vous fournirais un devis parce que je n'ai aucune notion du coût de l'accompagnement.
+38:01 speaker_0: Oui, je vais t'en parler. Du coup, l'investissement pour l'accompagnement, il se fait en quatre mensualités de 3
+38:11 speaker_1: 625 euros. Ok.
+38:18 speaker_0: Tu n'as rien à régler aujourd'hui, bien entendu.
+38:24 speaker_0: Le premier règlement se passe le lendemain de ton rendez-vous de lancement. Et en l'occurrence, j'ai le planning de Christine sous les yeux. Alors, je suis désolé, on s'est un peu fait dévaliser, mais je vais essayer de te proposer des dates proches.
+38:50 speaker_0: C'est très simple, il me reste une dispo en octobre et sinon ça va être à partir du 12 novembre.
+38:56 speaker_1: Ben, on fait à partir du 12 novembre, t'as de problème.
+38:58 speaker_0: Ouais.
+39:00 speaker_0: C'est quoi tes jours fauteuils, toi ?
+39:03 speaker_1: Lundi, mardi, jeudi, vendredi.
+39:06 speaker_0: Ok.
+39:09 speaker_0: Alors, je vais le mardi 12 à 10h30.
+39:15 speaker_0: Le jeudi...
+39:16 speaker_0: On va prendre ton agenda.
+39:19 speaker_1: 8h30,
+39:21 speaker_0: le jeudi ? Le jeudi, je vais 8h, 10h ou 17h, c'est plus flexible.
+39:25 speaker_1: 8h, 10h ?
+39:27 speaker_0: 8h, 10h ou 17h. Et compte 2h pour le rendez-vous.
+39:31 speaker_1: 8h, 10h, c'est pas mal ça. Il faut que je sois au cabinet, j'imagine, pour le...
+39:36 speaker_0: Non, pas forcément. Si tu veux être au cabinet, tu peux y être, mais moi, ce que je te recommande, c'est d'être tranquille et qu'on ne te dérange pas. Donc, typiquement, tes filles ont 19 et 22, donc elles ne vont pas te déranger.
+39:49 speaker_0: Tu vois, n'est pas une assistante dans les pattes ou...
+39:53 speaker_1: Et sinon, un mercredi, puisque je peux être chez moi le mercredi, si on n'a pas besoin d'être au cabinet.
+39:58 speaker_0: Alors, le mercredi, ça sera le 27, pour le coup.
+40:04 speaker_1: on a qu'à faire ça, ça va être plus simple comme ça je suis tranquille
+40:08 speaker_0: 9h45 ou 11h45 ?
+40:10 speaker_1: eh bien
+40:12 speaker_0: 11h45 très bien allez je vais reprendre des infos bim Géraldine ton email geraldine.ferivincent arrobas gmail.com c'est bien ça ?
+40:28 speaker_1: ouais c'est mon email perso ça très bien
+40:31 speaker_0: C'est celui sur lequel on peut t'envoyer le... Oui,
+40:34 speaker_1: les trucs que je ne veux pas que l'équipe regarde.
+40:37 speaker_1: Au début, j'avais un pro, un perso, je disais je mets tout sur le même, ça va très bien.
+40:42 speaker_0: Le numéro de téléphone portable sur lequel on peut faire l'invitation WhatsApp, c'est le 0665 75 36.
+40:48 speaker_1: C'est ça.
+40:49 speaker_0: Ok.
+40:52 speaker_0: Est-ce que tu peux aller consulter des boîtes mail, s'il te plaît, et me dire si tu as bien reçu l'invite ? Si c'est le cas, je vais te laisser la jeter dans ton calendrier.
+41:05 speaker_1: Oui.
+41:06 speaker_0: Ok. Je te laisse ajouter dans ton calendrier, je ne sais pas si tu gères par papier ou sur ton téléphone, mais en tout cas, je te laisse ajouter. Dans cette invite, il y a le lien de connexion au visio qu'il faudra rejoindre pour rejoindre Christine le 27. Moi, je vais te faire partir un email tout de suite avec tous les éléments qu'il nous faut. Donne-moi 15, 20, 20...
+41:32 speaker_1: Pour le 27 novembre.
+41:34 speaker_0: Oui.
+41:35 speaker_0: Il faudra nous le fournir 10 jours avant du coup.
+41:37 speaker_1: Non, je vais le faire tout de suite. Si par exemple sur le planning, vous avez besoin des codes, vous me le dites, je le ferai avant. Enfin voilà, comme ça vous aurez tous les…
+41:46 speaker_0: Alors, Vanessa est bien dans la boucle, le screenshot, la vidéo.
+41:52 speaker_1: Je vous explique aussi sur le planning parce que j'ai des groupes de famille de rendez-vous.
+41:58 speaker_1: Sur les 30 minutes, j'ai plein de rendez-vous différents qui peuvent se prendre dans les créneaux de 20 minutes. de 30 minutes par exemple, je n'ai pas qu'un seul type d'acte.
+42:06 speaker_0: Ça, à mon avis, tu vas pouvoir le détailler. Donc, tu vas pouvoir le détailler dans les screenshots que tu vas nous faire parvenir.
+42:12 speaker_0: Tu vas pouvoir aussi le détailler dans le questionnaire.
+42:15 speaker_0: On peut ouvrir cet email avec tous les éléments que tu dois nous envoyer. Tu as dû le recevoir, je viens de te l'envoyer.
+42:22 speaker_1: Alors, un screenshot du planning des trois dernières semaines.
+42:32 speaker_0: Trois derniers bilans. Tu as le questionnaire à remplir juste en dessous. Oui, c'est ça. Et ma demande, c'est ce que j'ai surligné en vert, c'est de bien garder Vanessa, qui est notre assistante à Christine et moi-même, dans la boucle quand tu nous renvoies les éléments. C'est elle qui va se charger de tout compiler et de commencer à nous monter le dossier. Donc, voilà.
+42:55 speaker_0: Deuxième chose, tu vas recevoir une invitation de sa part sur WhatsApp, soit aujourd'hui, soit demain.
+43:00 speaker_0: pas un spam, pas une Vanessa qui sort de nulle part, c'est notre Vanessa à nous. C'est elle qui constitue tous les dossiers, qui s'occupe de tout l'administratif, donc pour le coup elle va t'envoyer une invitation WhatsApp aujourd'hui ou demain.
+43:11 speaker_0: On va concentrer nos échanges sur ce groupe WhatsApp et ceux des deux mains. Si tu as la moindre question, la moindre interrogation, un empêchement, vraiment s'il t'arrive quoi que ce soit et que ça nous concerne, tu nous contactes sur ce groupe-là, c'est le groupe sur lequel tu as tout. tous les membres de l'équipe, que ce soit Christine, moi, Vanessa ou Michel.
+43:36 speaker_0: Ça nous permet d'être très actifs, déjà.
+43:38 speaker_0: Et surtout, ça nous permet de dispatcher des tâches à chacun en fonction.
+43:46 speaker_0: Je t'ai envoyé l'invite, je t'ai envoyé l'email avec les informations qu'il nous faut.
+43:51 speaker_0: Je t'ai parlé de Vanessa qui va t'inviter par WhatsApp.
+43:57 speaker_0: Non, écoute, je pense que je t'ai...
+43:59 speaker_0: Je pense que je t'ai tout dit.
+44:02 speaker_0: Est-ce que toi, il te reste des questions de ton côté, des points que tu veux qu'on note qui ne sont pas suffisamment approfondis ?
+44:08 speaker_1: Non, peut-être dans la vidéo du cabinet, qu'est-ce qu'il vous faut ? Le plan ?
+44:17 speaker_0: En fait, ce qui nous intéresse de comprendre, c'est le parcours de soins, le parcours patient, le matos que tu as en place, les différentes salles de soins et le bureau. En fait, ce qui... Enfin...
+44:29 speaker_0: Nous quand on va regarder une vidéo si tu veux on va se dire ok quels sont les outils que le Prart utilise, combien il a de salles, comment ces salles sont équipées, il faut qu'on puisse se faire une idée de grosso modo de ses utilisations.
+44:43 speaker_1: Dans la vidéo que je vais vous envoyer en fait on voit mon cabinet il est symétrique, il est un peu en longueur et on voit qu'une partie mais j'ai en fait j'ai deux salles cliniques, deux bureaux voilà c'est mais on a décidé de mettre ça à côté.
+44:58 speaker_0: Mais si tu veux nous faire une vidéo à l'iPhone, ça va très bien. Pendant 2 minutes, tu filmes juste, ok, ça c'est la salle 1, salle 2.
+45:06 speaker_0: tu vas sera peut-être mieux qu'une vidéo plus léché où on n'a pas tout là au moins c'est commenté c'est toi qui l'a fait donc on sait qu'on a tout quoi je vous enverrai les deux comme ça vous verrez voilà ok ok ça roule non mais écoute moi j'ai plus quatre merci de ta confiance déjà c'est un choix de projet peut-être à monter je vois le typologie d'état par lesquels tu es passé la qualification, les outils que tu utilises, c'est déjà un certain niveau.
+45:39 speaker_0: Donc, c'est cool aussi de prendre des praticiens qui sont déjà là pour les amener plus loin. Je suis super motivé à l'idée de pouvoir bosser sur ton câble. Et on se retrouve sur WhatsApp dès demain et en visio dès le 27.
+45:56 speaker_1: Ok, ça marche. Merci beaucoup de ton partage. Ça permet toujours de réfléchir.
+46:05 speaker_1: de savoir un peu où on va. Mais c'est vrai que je pense aussi que MasterDoc va nous faciliter les choses certainement.
+46:13 speaker_0: Christine est une des personnes qui sont à l'origine de MasterDoc. Donc pour le coup, sur l'utilisation, je pense qu'elle sera assez incollable.
+46:21 speaker_1: Il m'est arrivé avec Christine la première fois que j'étais en ligne avec elle. D'habitude, je ne fais jamais ça. J'étais arrivée du cabinet à la bourre, j'avais fait ma soupe. Je pensais qu'on était 50.
+46:31 speaker_1: Et d'habitude, on n'est même pas en… Et là, je me suis retrouvée toute seule avec ma soupe, les cheveux comme ça.
+46:36 speaker_0: Mais parce que tu la connaissais déjà ?
+46:39 speaker_1: Mais non, je ne les connaissais pas. J'ai trouvé MasterDoc par hasard. Je ne sais même plus comment je les ai connus, Facebook, dans ça. Je suis tombée dessus, je cherchais un logiciel de gestion et je suis tombée dessus. Je pensais que c'était Insta, mais je ne suis pas sûre. Bref, et du coup, je me suis dit, tiens, ça paraît intéressant, je vais aller regarder ce que c'est. Mais vraiment, je l'ai fait sans savoir vraiment de quoi il s'agissait et en pensant qu'on avait eu un super nombre, je me suis retrouvée comme là. Je me suis dit, pardon, je vais mettre ma flûte et mon écran. Il fallait vraiment qu'on se rende compte.
+47:15 speaker_0: Bon, écoute, super.
+47:18 speaker_0: Je te dis, on se voit de l'autre côté sur WhatsApp dès demain. Et si on a la moindre question, on n'hésitera pas à te les poser sur les pièces que tu vas nous envoyer.
+47:26 speaker_1: Ok.
+47:27 speaker_1: Merci. Bonne journée. Merci.
+47:29 speaker_0: Bonne journée à toi aussi, Géraldine. Au revoir.
+47:31 speaker_1: Au revoir.
