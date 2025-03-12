@@ -1,0 +1,374 @@
+[2025-03-11_17-48-46] Justine RÉTO et Fabien BRAULT-SCAILLET
+
+00:04 Aude NATIVELLE: Là, j'ai refait un point global au niveau de la pharma. On fait vraiment par entonnoir. Je vais commencer par représenter les data au global. Et après, on va rentrer dans le détail de chaque TVA.
+00:14 Aude NATIVELLE: Dans les chiffres que j'ai, j'ai pris du 1er mars au 28 février. Vous avez une tendance qui est positive sur tous les critères, que ce soit en volume, en chiffre d'affaires et en marge.
+00:24 Aude NATIVELLE: Vous me dites si vous trouvez des incohérences. Ça reste un concentrateur de données.
+00:29 Aude NATIVELLE: Du coup, On met souvent le détail par totale. De TVA et en dessous, vous avez les graphiques. Et ce qui est intéressant sur cette slide, c'est comme ça. Vous pouvez voir un peu la part en fonction de la fréquentation et ce que ça vous rapporte en marge. Typiquement, quand vous regardez votre TVA 5, ça ne draine pas beaucoup de monde, puisque vous avez un poids de 7% en volume, Mais, par contre, elle draine 12% de votre marge.
+00:50 Aude NATIVELLE: Donc ça, c'est des critères qui sont intéressants à regarder.
+00:54 Aude NATIVELLE: J'ai vu aussi, vous verrez, Il y a des petites incohérences au niveau de certains taux de marge, Mais je vous montrerai tout à l'heure pour essayer de comprendre avec vous. Soit c'est dans le LGU, il y a des choses qui ne sont pas forcément bien renseignées, ou c'est le constructateur qui...
+01:07 speaker_1: Qui déconne.
+01:08 Aude NATIVELLE: Voilà, exactement.
+01:11 Aude NATIVELLE: Donc, là, vous êtes à un taux de marque de 29%, ce qui est à peu près dans les ratios, normalement, On est plutôt entre 30 et 31.
+01:18 Aude NATIVELLE: Mais du coup, en retravaillant quelques marques, Ça devrait se rectifier. Je ne sais pas si sur cette slide, vous avez des questions ou pas.
+01:28 speaker_1: Non, là, ça va.
+01:31 Aude NATIVELLE: Quand on regarde après l'info générale sur la pharma, en marge, Vous êtes une pharmacie qui est quand même assez orientée médicaments, puisque vous avez 75% de vos flux qui sont sur ordonnance.
+01:44 Aude NATIVELLE: Les deux sont en surperformance, donc en marge, en hors ordo, Vous faites 187 000 euros de marge sur le hors Ordo et quasiment 550 000 sur l'Hors do.
+01:55 Aude NATIVELLE: J'ai regardé aussi, je me suis amusée à regarder les tendances par mois.
+01:58 Aude NATIVELLE: Bonjoulu, juillet et août.
+02:02 Aude NATIVELLE: Et quand je regarde le dispatch sur juillet et août, effectivement, Vous avez des très grosses croissances sur la TVA 20 et sur la TVA 5.5 aussi. La TVA 20, vous êtes à plus de 22%.
+02:13 Aude NATIVELLE: Je pense que ça va être. Tout ce qui est solaire peut-être et dermo. Et la TVA 5.5, Je ne sais pas. Et surtout, les compléments alimentaires qui sont boostés.
+02:23 Aude NATIVELLE: Mais du coup, j'avoue que c'était intéressant à regarder.
+02:29 Aude NATIVELLE: Alors aussi, en systématique, On regarde toujours votre top 30. Alors, je ne sais pas si vous avez une idée de vos laboratoires qui sont les plus contributeurs de marge.
+02:37 Aude NATIVELLE: Donc, là, vous avez vraiment que la marge, C'est un classement de celui qui vous rapporte. Le plus de marge, donc c'est les 30 premiers.
+02:44 Aude NATIVELLE: Vous travaillez plusieurs génériques. Oui, je fais ça.
+02:50 Aude NATIVELLE: Ah, oui, alors je ne connais pas les spécificités. Je fais effectivement sur le génériqueur quasiment. Ah, oui, d'accord. Mais du coup, je pense que vous gagnerez peut-être à… À consolider un gros numéro 1 et un gros numéro 2 en termes de conditions Non,
+03:02 speaker_1: parce que c'est à la molécule, Ils négocient, Les acheteurs négocient à la molécule la meilleure remise. Ok.
+03:11 Aude NATIVELLE: Après, ce qui est intéressant de constater, c'est qu'il y a Pilèges, qui arrive en 6e. En fait, c'est complètement alimentaire, avec un très gros poids. Les Gifar Group, C'est quoi les produits que vous faites ? Parce que du coup, j'imagine qu'ils font des compléments, enfin, ils font de la para, mais Libra et tout, ça rentre dedans ?
+03:30 speaker_1: Oui, je pense. Je ne sais pas comment c'est à partir de chez vous, mais en tout cas, Ils ont des compléments alimentaires et de la para, Ils ont les deux,
+03:37 Aude NATIVELLE: oui. Ok, donc du coup, c'est intéressant, qui sort quand même dans le Top 10. Et après, du coup, fabre d'armo cosmétiques aussi, Il sort assez haut pour une PHARMACIE DE LA BAIE 2,5 millions. J'avoue que d'habitude, on voit plutôt tout ce qui est orthocompression, Mais vous avez une...
+03:53 Aude NATIVELLE: Grosse part sur la cosmétique. Et après, on se rend compte du poids, de l'orthocompression, de la nutrition orale, aussi.
+04:05 Aude NATIVELLE: C'est toujours intéressant d'avoir ce genre d'infos pour orienter un peu les...
+04:12 speaker_2: L'oral.
+04:16 Aude NATIVELLE: C'est au niveau général de la pharma. Après, quand on rentre aux détails, je suis allée sur la TVA, 2.1. Vous avez votre générique qui est le plus gros contributeur en termes de marge, donc il est en croissance.
+04:28 Aude NATIVELLE: Le produit cher, J'ai vu que chez vous, il pesait.
+04:31 Aude NATIVELLE: 29% de votre chiffre d'affaires.
+04:34 Aude NATIVELLE: Donc, en fait, on s'aperçoit que même si c'est que 334 ventes, c'est quand même 35 000 euros de marge. Donc, en fait, finalement, C'est des produits qui ne sont pas très longs à délirer. Et que tout le monde dit, oui, les produits chers, on ne les aime pas, mais finalement, Ils drainent quand même pas mal de marge.
+04:55 Aude NATIVELLE: Là, c'est là où il faudrait qu'on regarde parce qu'en fait, Vous avez un taux de marque. Qui n'est pas noté, mais en fait, La dernière ligne, Il y a marqué « Autres » .
+05:03 Aude NATIVELLE: Je pense que le taux de marque, il y a peut-être des produits que vous n'avez pas forcément bien… Je ne sais pas comment vous renseigner. Vous passez par Sojifar et par… Vous, vous commandez sur la plateforme et vous commandez en…
+05:14 speaker_1: En direct et sur les grossisses partout. OK.
+05:20 Aude NATIVELLE: Donc, du coup, normalement, On estime que la TVA 2.1, Elle est plutôt aux alentours de 28-29. Donc, là, vous êtes un peu en sous… Sous positionnement, donc, après avoir effectivement, parce que, comme vous me dit lui, un peu, même s'il ya des accords avec Giffard sur le générique. Mais ça, je laisserai, peut-être Fabien recompilé sur les sur les datas, donc c'est sur quoi là? Du coup, vous dites que qu'on est qui est moi, je sur le global de la TVA, dans les ratios qu'on voit et que on stipule dans notre référentiel. On est plutôt à hauteur de 29 28 29 sur le taux de marge de la TVA de 1.
+06:03 Aude NATIVELLE: Sachant que vous avez des produits chers qui sont à 29% du chiffre d'affaires, en moyenne, on estime les produits chers à 42% du chiffre d'affaires. Donc, vous vendez moins de produits chers qu'une autre, qu'une pharma en moyenne.
+06:18 Aude NATIVELLE: Donc, ça, ça serait à gratter, peut-être en termes de rentabilité.
+06:23 Aude NATIVELLE: Là, pareil, Je vous ai remis à chaque fois les top 10 des laboratoires par TUT TVA. Comme ça, vous voyez ceux qui sont les plus contributeurs de marge. Comme ça, sur cette slide, ça vous permet de voir aussi Les labos qui sont des labos avec les produits chers, type Pfizer, Janssen.
+06:41 Aude NATIVELLE: Et donc, du coup, c'est toujours bon de savoir. Et je vous dis, Je pense que Fabien reviendra certainement sur la partie des génériques pour regarder plus en détail.
+06:53 Aude NATIVELLE: Donc, sur la TVA 5.5, là je vous ai mis ici la liste des 8 premières catégories qui correspondent à 90% de votre chiffre d'affaires global sur la TVA 5.5. En fait, Je m'aperçois que quand on fait des analyses avec des pharmacies, il y en a quand même pas mal. Qui ne sont pas au courant de ce qui est ré...
+07:15 Aude NATIVELLE: Ça va
+07:16 Fabien BRAULT-SCAILLET: Désolé, J'ai une organisation un peu à l'arrache, aujourd'hui.
+07:21 speaker_1: T'inquiète pas.
+07:22 Fabien BRAULT-SCAILLET: Donc, je me suis fait remplacer par mon bras droit, c'est pareil comme si c'était moi.
+07:26 Aude NATIVELLE: Oui, mais après, il y a deux, trois sujets quand même, où on est content d'avoir du jus de Fabien BRAULT-SCAILLET.
+07:30 Fabien BRAULT-SCAILLET: Oui, d'accord.
+07:33 Aude NATIVELLE: Là, j'étais en train de présenter, Donc, là, on a fait le point sur les chiffres globaux des TVA de la Pharma avec les ratios. Là, on a rentré sur la TVA. 2.1. Je ne sais pas si tu vois bien mon écran et comme tu es en train de conduire, il faudrait peut-être éviter que tu...
+07:49 Aude NATIVELLE: Que tu aies un accident.
+07:50 Aude NATIVELLE: Mais je revenais.
+07:54 Aude NATIVELLE: Tu reprends une passe avec Justine, j'ai renoté les points comme ça pour voir avec lui. Je trouvais qu'il y avait beaucoup de génériqueurs en numéro 1. Mais après, avec les conditions et les accords Gifar, il y a peut-être des Fifi qui...
+08:05 Fabien BRAULT-SCAILLET: C'est pas épineux, c'est qu'il y a assez peu de visibilité. En fait, je le parle,
+08:21 Aude NATIVELLE: je parle sous le contrôle de Justin, mais effectivement, c'est assez. C'est pas simple à suivre économiquement, ouais, parce que du coup, le taux de marque. Finalement, il est à 26 sur la TV à 2 1, quand, en moyenne, on est plutôt à
+08:40 PHARMACIE DE LA BAIE: 28 29 29 30. Si on la remise arrière, on sait pas la mise arrière qu'on qu'on perçoit, mais qu'on ne sait pas d'où elle provient.
+08:56 Fabien BRAULT-SCAILLET: Je vous raconterai, j'ai eu pas mal d'informations à Parmagora, J'ai discuté avec quelques outils pharmaciens un peu remontés, Je partagerai ce que je m'en suis sur l'info.
+09:05 speaker_1: Ok, tu veux nous partager maintenant ou après
+09:12 Fabien BRAULT-SCAILLET: Après, quand on va faire le suivi.
+09:19 Aude NATIVELLE: Du coup, pour continuer sur la TVA 5.5, donc la catégorie elle pèse 7% du volume, c'est ce que je vous disais, 12% de la marge. Les produits remboursés, c'est 31 000 euros de marge, tout le monde est en croissance, bon, en fait, vous êtes en croissance un peu partout, Donc, c'est quand même une bonne nouvelle.
+09:37 Aude NATIVELLE: Donc, sur les marchés qui sont remboursés, vous avez la compression, l'orthopédie, Il y a marqué vitamines et carences, c'est surtout de la nutrition orale pour info.
+09:45 Aude NATIVELLE: Et autres soins. C'est tout ce qui est lecteur de glycémie, tout ce qui a trait au diabète, donc sur la partie. Si je fais un petit zoom juste sur les marchés, faut que vous ayez conscience que ce sont des marchés qui sont des très fortes catégories. Parce que c'est des marchés de renouvellement, que c'est des marchés que là vous regarderez là, vous voyez dans la colonne l'avant avant avant dernière. Vous avez la marge unitaire où on voit clairement qu'en fait là leur taux et la compression. Même si vous en vendez pas des wagons, la marche que vous faites à chaque produit. Elle est, elle, est beaucoup plus importante que les autres, puisqu'on entre 12 et 18, sachant que le 18 euros en en Orthopédie. Je pense que même si enfin, après ça à regarder, je pense que si vous vendiez peut-être plus de ceinture lombaire, Il y aurait peut-être une augmentation de la marge moyenne en orthopédie. Il y a des produits qui sont à forte valeur et sur du Conseil qui sont intéressants à travailler.
+10:39 Fabien BRAULT-SCAILLET: Il y a Libra.
+10:41 Aude NATIVELLE: Oui, Libra, mais ça, c'est de la bonne marge. Vous travaillez plutôt Libra qu'un acteur
+10:48 speaker_1: Non, c'est Tuen, notre numéro 1. En fait, avant, Je trouvais que Libra était un peu moins qualitatif. Franchement, il y a des trucs, C'était un peu cheap axe.
+10:55 Aude NATIVELLE: C'est Libra qui fait la marque Libra, non
+10:59 speaker_1: Là, c'est mieux, je trouve, en qualité. Il y a quand même des trucs, ça fait un peu moins cheap. Donc, on les recommande un peu plus.
+11:06 speaker_1: Mais je pense qu'il faudrait peut-être remotiver l'équipe un peu plus sur Libra aussi.
+11:14 Aude NATIVELLE: Et donc, du coup, pour pouvoir vous jauger un peu sur la compression, là, vous faites 659 paires. Naturellement, normalement, une PHARMACIE DE LA BAIE votre chiffre d'affaires, on est plutôt un chiffre d'affaires de 25 milles quand vous vous êtes à 18000. Donc, en fait, je pense qu'il ya des paires, bien dire à votre équipe de Je sais pas combien votre CPM autorise de paires par an. Normalement, c'est 8
+11:34 speaker_1: 6 à
+11:35 Aude NATIVELLE: 8. Ça dépend, ça dépend, la de voilà, c'est ça. En fait, si on se sensibilise pas l'équipe sur le renouvellement, le, c'est pas le patient qui y pense de dire Tiens, va revenir dans. Donc, ça dépend du nombre de paires. Mais de entre 3 à 4 mois, il y aura deux paires qui seront prise en charge par la Sécurité sociale. C'est un discours simple, mais en même temps intéressant pour le patient et pour vous.
+11:56 speaker_1: Théoriquement, Fabien, tu peux refacturer tous les quoi? Trois mois du coup ?
+12:01 Fabien BRAULT-SCAILLET: Trois mois si l'ordonnance est renouvelable. Et une des bonnes pratiques, c'est de mettre évidemment en commentaire. Bloquant la voie du délivre. Pour que, trois mois plus tard, tu penses à ré-réclamer Si l'ordonnance est toujours valable, parce que, naturellement, on ne rentre pas dans les historiques pour rouvrir l'ordonnance. Pour regarder si elle est valable. Et donc, en fait, Ça part à l'intra. Et pour que ça ne soit pas, en juillet, tu vois, le renouvellement, tu te dis, c'est beau, Je ne peux pas mettre des bas de compression. Et donc, ça part doublement à l'intra. Donc, se mettre ce petit rappel-là, une finée, Quand tu vois l'effort que ça représente en euros, versus le fait que l'ordonnance soit valable, et la marge pour toi, ça vaut vraiment le coup.
+12:40 speaker_1: OK.
+12:44 Aude NATIVELLE: Sur la nutrition orale, vous êtes plutôt bien positionné par rapport au poids de votre format. Donc, vous en faites bien, et c'est une belle croissance aussi. Le marché est à plus 6 ou vous êtes à plus 15. Donc, franchement, ça, c'est top.
+12:54 Aude NATIVELLE: Et vous verrez, Je vous ai mis un référentiel de marge qu'on observe et qu'on a calculé par rapport à ce qu'on connaît sur le marché. Et donc, du coup, vous êtes typiquement sur la nutrition orale, par contre, Un peu en baisse, puisque vous êtes à 24% de taux de marque. Donc, normalement, On est plutôt aux alentours de 35-38. Donc, après, à voir s'il y a des accords tripartites ou passés.
+13:17 Aude NATIVELLE: Donc, à gratter. Si vous avez des conditions, moi, je peux regarder puisque j'ai un tableau d'équivalence. Donc, moi, je peux regarder.
+13:24 speaker_1: Donc ça, c'est sur tout ce qui est présumé, c'est ça
+13:27 Aude NATIVELLE: Exactement, oui.
+13:27 Fabien BRAULT-SCAILLET: Je me demande si, justement, Il n'y a pas de question sur les herbes à repasser, Vous n'avez pas la visibilité en R&P.
+13:38 speaker_1: Oui, j'ai des RFA.
+13:39 speaker_2: Par la mise avant,
+13:46 Fabien BRAULT-SCAILLET: par quel canal vous passez et combien de labos vous avez, Ça donne une couleur un peu différente et donc cette dilution peut être mieux la remise.
+13:55 speaker_1: Moi, je focus sur un labo, Frédéric, mais en effet, On a une grosse RFA derrière.
+14:00 Aude NATIVELLE: Vous avez des RFA aussi, sur la visibilité et sur la croissance du chiffre d'affaires. Et tout, non
+14:06 speaker_1: Sur le chiffre qu'on leur...
+14:07 Aude NATIVELLE: Passe, ouais, là, j'imagine que vous leur passe un petit fouet, oui, non. L'autre point aussi, qui est intéressant, c'est sur la partie diabète. Vous avez un taux de marque qui est inférieur à notre référentiel. Je pense que vous devez faire pas mal d'abottes. Oui, beaucoup de capteurs, voilà, il en fait là dessus, donc. Du coup, ce qui est logique que vous ayez un taux de marque faible, c'est qu'en fait, on a peu de marge de maîtresse, de négociation. Donc voilà,
+14:35 speaker_1: c'est au moins 70 boîtes par mois, donc maintenant, c'est énorme.
+14:39 Aude NATIVELLE: OK.
+14:40 Aude NATIVELLE: Après, j'ai mis dans « Autres » , vous voyez, en orange, j'ai mis le 14 euros et le 50 % de marque. C'est là où je vous disais qu'il y avait des produits dedans, donc dans les 1 683 produits, là. Il y a des produits où je pense que le… Dans la dernière ligne là, quand vous regardez les quantités rendues.
+14:58 Aude NATIVELLE: Ici, il y a des petites bouilles qui se baladent. Mais en fait, du coup, votre LGO vous met un taux de marque à 50 et je pense pas que ça soit vraiment 50. Donc, en fait, si vous voulez, quand on y a peut-être un petit des petits indicateurs qui faussent la marge exacte. Donc, là, en fait, il y a marqué. Que vous êtes à 34 de taux de marque, qui est très bien. Je pense que vous êtes plutôt à hauteur de 33.
+15:19 Fabien BRAULT-SCAILLET: Juste un petit mot sur la première ligne. Vous voyez le nombre de boîtes que ça représente en complément alimentaire sur les ventes ou sur le stock
+15:34 Aude NATIVELLE: C'est 3000 boîtes,
+15:36 Fabien BRAULT-SCAILLET: 3000 ventes de complément alimentaire et 2009 sur la phyto. Et donc, quand tu sais le nombre d'ordonnances que tu fais dans l'année, il y a un peu de gras. Même si, en marge, c'est ce qu'il y a de plus élevé, je ne vois pas le... Mais tu vois en euros ce que tu gagnes par vente l'avant dernière colonne là ou l'avant avant dernière. Elle est intermittente de production. C'est des ports faits par chaque vente. Du coup, dans la slide,
+16:11 Aude NATIVELLE: sur les Top 10 des labos, donc, on a toujours pilège. Coeur numéro 1 Thuan donc, qui fait Ortho et compression, j'imagine chez Thuan. Oui, voilà, donc on a quand même toujours les compléments alimentaires avec NHCO, on a la nutrition orale avec Fresio.
+16:27 speaker_1: On a rentré que en juin, NHCO, donc ça, ça veut dire que c'est... C'est la belle perf, du coup !
+16:33 Fabien BRAULT-SCAILLET: Tu vois la puissance du truc quand tu prends conscience, là Ouais. Le résultat de ce que ça donne en terme de... Quand tu choisis le bon labo et que tu développes les ventes, tout de suite, ça ressort de façon hyper intéressante.
+16:47 speaker_1: Ouais, c'est cool.
+16:49 Aude NATIVELLE: Si vous voulez, moi, on vous enverra la slide. Si vous voulez que je vous rajoute des infos, vous me dites. Après, une fois que j'ai accès à vos datas, moi, je peux m'amuser à faire des analyses un peu plus poussées.
+17:07 Aude NATIVELLE: C'est marrant qu'il y a pas dans les Top 10, par contre.
+17:11 Aude NATIVELLE: Ça veut dire que vous êtes directives, sélectives dans vos accords, déjà.
+17:15 Fabien BRAULT-SCAILLET: Ça veut dire qu'il n'y a pas beaucoup de choses. Oui, ou, à l'inverse, c'est que... Finalement, dans le Top 6 dans le Top 6, Abot sort déjà énormément de marques, donc il est au top 10 en termes de marge. Ça veut dire que tu as encore du levier pour que d'autres marques prennent la place en orto, en compression ou en complément alimentaire d'un abot. Quoi, ouais?
+17:41 Aude NATIVELLE: Mais sinon, après, si tu fais, je sais pas, je m'en rends pas compte. Vous avez beaucoup d'acteurs, c'est pilote, c'est un peu comme ça. Oui, mais déjà, limite, Vous avez dit que ça. En ortho, tout mère tatuan et après Tagifar. En compression, tatuan et Tagifar.
+17:57 speaker_1: J'avais un peu le petit bout, mais on a arrêté. Oui,
+17:59 Aude NATIVELLE: mais qui doit être pinote, du coup, C'est pour ça qu'il n'y a pas.
+18:04 Aude NATIVELLE: Mais non, du coup, c'est intéressant. Je crois que c'est la première fois que je vois un Bot qui dort dans les tablis. C'est vrai ? Il y a beaucoup de diabétiques, peut-être, à Quiberon.
+18:12 speaker_1: Il y en a beaucoup. Non, mais c'est vrai qu'on a une patientèle avec beaucoup de diabète.
+18:26 Aude NATIVELLE: Ok, maintenant sur la TVA 10. C'est une TVA qui représente 10% de vos ventes, donc, qui ramène un peu de flux quand même, Mais par contre, que 6% de la marge, parce qu'en taux de marge, c'est des produits qui ne sont pas très élevés.
+18:39 Aude NATIVELLE: Je vous ai mis les univers. Après, C'est une catégorie qui a tendance généralement à diminuer en termes de poids dans la pharmacie, puisqu'il y a des dispatchs de produits dans différents taux TVA.
+18:47 Aude NATIVELLE: C'est quasiment que des produits qui sont non remboursés.
+18:50 Aude NATIVELLE: Par contre, il y a quand même 28%…
+18:52 speaker_1: Je vois le lien. Fabien.
+18:54 Aude NATIVELLE: Pourquoi? Fabien Ah, sur le stock
+18:58 speaker_1: Non, parce qu'il y a un taclé sur mon hygiène buccodentaire. Là, je suis sur la TVA10.
+19:02 Aude NATIVELLE: C'est sur la TVA10,
+19:02 Fabien BRAULT-SCAILLET: tu verras la TVA20. Hygiène, buccodentaire. Tu vas avoir le chiffre d'affaires que tu fais, le nombre de boîtes pour dégager combien d'euros.
+19:12 Fabien BRAULT-SCAILLET: Là, c'est typiquement, ça, tu peux l'augmenter. Si tu as une file d'attente unique et que les gens qui ont la queue devant ces produits-là, ils se servent tout seuls. Ça, c'est ton rééquipe, ton Bayer, ton Eurofen, etc.
+19:24 speaker_1: Tu vas voir,
+19:27 Fabien BRAULT-SCAILLET: la ligne d'après, c'est là où tu vas te faire mal.
+19:29 Aude NATIVELLE: Tu as quoi? Du coup, dans le buccodentaire, dans la TVA10
+19:31 Fabien BRAULT-SCAILLET: C'est ceux qui sont...
+19:35 Aude NATIVELLE: Qui étaient fluocariles ? Exactement,
+19:39 Fabien BRAULT-SCAILLET: mais qui sont passés en TVA20. Donc, c'est ceux, c'est Arthrodon, c'est quelques produits. Mais quoi que ça repasse en TVA20, il faudrait que j'aille voir exactement ce qu'il y a en TVA10.
+19:48 Fabien BRAULT-SCAILLET: Merci.
+19:53 Aude NATIVELLE: Ça, je pourrais regarder le détail sur la TVA10.
+19:57 Aude NATIVELLE: Mais donc, du coup, Ce qui est quand même intéressant, c'est que c'est des produits qui sont...
+20:02 Aude NATIVELLE: Chez vous, il y a plus d'ordonnances, d'ailleurs, parce qu'on voit d'habitude, Il y a plutôt un ratio de 10-15% qui ne sont pas sur ordonnance. Vous, Je pense qu'on est plutôt proche de 70% qui passent sur ordonnance et qui sont plus dynamiques effectivement sur ordo que hors ordo.
+20:21 Aude NATIVELLE: Là, après, je vous ai remis le top. 10 des labos.
+20:24 Aude NATIVELLE: La Boiron,
+20:24 speaker_1: alors.
+20:25 Aude NATIVELLE: Boiron, numéro 1.
+20:27 speaker_1: Ah, j'aurais pas pensé.
+20:29 Aude NATIVELLE: De peu avec Sanofi. Ok.
+20:32 speaker_1: Sanofi,
+20:32 Fabien BRAULT-SCAILLET: Ils vont sauter puisque le Sanofi OTC repasse en 2-1.
+20:38 speaker_1: T'as dit quoi ? Je dis
+20:40 Fabien BRAULT-SCAILLET: Sanofi, va sauter parce que le Sanofi OTC repasse en 2-1.
+20:44 speaker_1: Ah, bon Petite Nouveauté
+20:54 Aude NATIVELLE: Oui, ça te met en ce que le...
+20:58 Fabien BRAULT-SCAILLET: Vas-y, mets-moi Le rose qu'on se marre.
+21:01 Aude NATIVELLE: Alors, sur le rose, Nous sommes sur une TVA à 20 qui représente 16% de votre chiffre d'affaires et 20% de votre marge.
+21:13 Aude NATIVELLE: Pour te traduire en direct, pour éviter que tu sois trop concentré sur l'écran, s'il y a la police.
+21:20 Aude NATIVELLE: Donc, du coup, le plus gros secteur, c'est la beauté.
+21:25 Aude NATIVELLE: En fait, vous êtes en croissance partout, en volume, en valeur, en marge. Vous avez un très bon taux de marque, qui s'explique, entre autres par un taux de marque, Alors que j'ai faussé, je le referai bien, Mais pareil sur la ligne autre, j'avais des bugs avec un taux de marque énorme. Mais donc, du coup, je pense que vous êtes plutôt aux alentours de 33-34, ce qui est déjà une très bonne perf.
+21:44 speaker_1: Ok. C'est cool.
+21:48 Aude NATIVELLE: Ouais.
+21:49 Aude NATIVELLE: Ce qu'il faut savoir, c'est que dans la TVA 20, on pense effectivement tout le temps aux entiers, assez la pareille. Il y a quand même une partie qui est sur du remboursé, avec les pansements techniques et les gammes blanches.
+21:58 Aude NATIVELLE: Vous avez 15% de votre poids qui est fait sur le remboursé et qui est en croissance et qui est en décroissance par marge. Ce qui s'explique parce qu'il y a peut-être des baisses de LPP.
+22:09 Aude NATIVELLE: Mais donc, du coup, par contre, très belle perf en sortie. Je ne sais pas si vous avez des accords avec des infirmiers, Parce que, souvent, on s'aperçoit que c'est relations. Pharmacie et infirmiers qui jouent sur ce...
+22:20 speaker_1: Oui, C'est vrai que les infirmiers viennent se servir chez nous. On a deux cabinets infirmiers à Saint-Pierre, donc oui, ça joue.
+22:30 Aude NATIVELLE: Après, je ne sais pas, Fabien, Tu es parti ou pas Il s'est fait arrêter par la police, c'est sûr.
+22:40 Aude NATIVELLE: Après, sur l'hygiène buccotentaire, je ne sais pas trop ce qui... Sur quoi il aurait pu... J'ai rajouté, d'habitude, je ne le fais pas, mais j'ai rajouté la colonne stock à la demande de M. Fabien BRAULT-SCAILLET pour se rendre compte. Je ne sais pas si c'était sur ça qu'il allait potentiellement. vous...
+22:53 PHARMACIE DE LA BAIE: On n'a pas le poids de chaque famille en pourcentage.
+22:58 Aude NATIVELLE: Je peux vous le rajouter.
+23:01 Aude NATIVELLE: Je peux le faire en direct.
+23:04 Aude NATIVELLE: J'ai votre fichier avec vos 6 milliards d'onglets.
+23:08 Aude NATIVELLE: Je devrais...
+23:18 Aude NATIVELLE: Et après, je peux rentrer un peu plus dans le détail. D'ailleurs, si vous voulez, je vous rajoute une slide avec les sous-univers pour savoir ce qui est fait en dermo, Ce qui est fait en… Oui,
+23:26 speaker_1: c'est toujours intéressant.
+23:27 Aude NATIVELLE: Je trouve que c'est toujours intéressant. Je vais dans le TVA.
+23:39 Aude NATIVELLE: La part de marché, on va le faire en marge.
+23:46 Aude NATIVELLE: La beauté, en volume, c'est comme vous voulez. Après, c'est à peu près la même chose.
+23:51 Aude NATIVELLE: On est à 28% sur la beauté, 20% sur la santé familiale. Alors, la santé familiale, il y a un peu à boire et à manger dedans, Mais c'est tout ce qui concerne l'antipou, Sérum, fil, les crèmes hydratantes, le standard.
+24:03 Aude NATIVELLE: Les pansements, c'est quasiment 10 points.
+24:05 Aude NATIVELLE: Donc, déjà, sur les trois premières catégories dans votre TVA 20, c'est 58% de votre marge.
+24:12 Aude NATIVELLE: Après, le bucco. Dentaire, Ça représente 5 % de votre marge sur la TVA 20.
+24:21 Aude NATIVELLE: Ensuite, vous avez l'hygiène.
+24:24 Fabien BRAULT-SCAILLET: Vous en vendez beaucoup plus de buccos que la moyenne. Parce que quand tu vois, si tu regardes en nombre d'unités, Le bucco dentaire est supérieur à l'hygiène. C'est rare.
+24:41 Fabien BRAULT-SCAILLET: Modulo m'entendait toujours. Et par contre, tu vois les la marche que ça génère, le denteur de boîte vendue. Donc je dis pas qu'il faut pas l'exposer.
+24:57 Aude NATIVELLE: Et voilà, c'est juste pour prendre conscience de ça. Et où deux euros par boîte fois, c'est vrai, pareil. Je peux vous faire le tonnage, mais après en même temps, mais je vous ferai un point un peu plus détaillé. Avec les Univers 2. Avec des univers, c'est vrai,
+25:31 speaker_1: C'est-à-dire qu'ils me remettent à jour mon inventaire de la pharma aussi en même temps ?
+25:35 Fabien BRAULT-SCAILLET: Non, je ne pense pas. Ils vous ont rappelé
+25:37 speaker_1: Ils viennent quand J'ai eu au téléphone, la fille, Elle m'a dit qu'on vous tient au courant pour vous communiquer une date.
+25:44 Fabien BRAULT-SCAILLET: C'est Laure, Je l'ai vue dimanche à 30h. Ok. Je vais attendre.
+25:48 speaker_1: Ok.
+25:48 Aude NATIVELLE: Je suis arrêté de prendre les ententes.
+26:04 Aude NATIVELLE: Oui, parce qu'en fait, je ne vous l'ai pas dit au début, Ce qui est quand même bon à savoir, quand j'ai fait l'analyse par mois, le mois de mars. Vous avez un taux de croissance à plus de 498%. En mars 2023, vous n'existiez pas.
+26:21 speaker_1: Du mouvement de logiciel.
+26:21 PHARMACIE DE LA BAIE: Du mouvement de logiciel.
+26:23 Aude NATIVELLE: D'accord. Donc, du coup, sachez que là, les évolutions que je vous mets, donc il y en a certaines qui sont genre… Après, on ne parle que d'un mois, Il y avait déjà un peu de flux. Mais du coup, il faudrait que je regarde un peu plus en détail.
+26:38 Aude NATIVELLE: Sauf si vous avez une idée du chiffre d'affaires que vous aviez fait en mars 2023.
+26:42 speaker_1: Non, Il faudrait que je reprenne dans mes...
+26:45 Aude NATIVELLE: Après, ça reste des papouilles.
+26:48 Aude NATIVELLE: Je voulais vous le dire pour que ce soit juste qu'on ait la Big picture. Alors, attendez que je me remette. Tac, je finis juste le truc de la TVA 20 avec les labos.
+27:01 Aude NATIVELLE: La stade de l'éthicienne. On va dire que je commence à bien tâter. Le logiciel GER, tout à fait. Et je fais pas mal de stats et j'écoute beaucoup, beaucoup Fabien, pour essayer de me nourrir et de travailler un peu mes datas. Donc, là, Je crois que j'en suis à ma 20e. ANALYSE En l'espace d'un mois. Donc ça rentre. Et attends,
+27:21 Fabien BRAULT-SCAILLET: Aude, Ce n'est que le début.
+27:23 Aude NATIVELLE: Et ce n'est que le début. Merci, Fabien. Joues à bonheur.
+27:27 Aude NATIVELLE: Après, c'est hyper intéressant et en fait, ce que j'adore, c'est qu'il n'y a pas une pharmacie qui se ressemble. Donc, en fait, systématiquement, on voit des choses qui sont différentes. Je vous dis là tout à l'heure, l'histoire de Abbott, qui remonte dans la TVA 5.
+27:39 Aude NATIVELLE: Il y a des taux de TVA aussi, où ce n'est pas du tout. Les mêmes tendances entre rembourser, non rembourser.
+27:46 Aude NATIVELLE: Même les ratios des TVA n'ont rien à voir en fonction de là. Où est la pharma. Donc tout ça, c'est intéressant.
+27:52 speaker_1: C'est marrant.
+27:55 Aude NATIVELLE: Donc, du coup, vous travaillez sur les pansements, surtout la marque verte et Monluc Oui. Je regardais ça tout à l'heure.
+28:02 Aude NATIVELLE: Effectivement, Monluc, il y a moins de levier pour bien négocier des conditions, on marge au moins, mais par contre, les infirmiers généralement, Ils préfèrent Monluc.
+28:11 Fabien BRAULT-SCAILLET: Et quand tu vois Vitry, il y a un placé, ça t'écanouille. Il y a pas de table d'armocosmétiques ou l'Oréal. Le prix de vente. À mon avis, tu dois pouvoir faire un chouïa mieux parce que tu vois bien la longueur du trait vert clair par rapport au vert foncé. 20-25 Tu as, à mon avis, à travailler ou s'assurer que tu es derrière.
+28:44 speaker_1: Je fais quand même pas un coiff dégueulasse pour du Aven, souvent mon compteur. Il me disait que les moyennes étaient PHARMACIE DE LA BAIE. Tu vas me dire, je parle en coef, mais souvent je fais au minimum 1,7. Je me positionne entre du 1,7 et 1,75 sur Aven.
+28:58 Fabien BRAULT-SCAILLET: Oui, c'est correct. Mais tu vois, On voit bien le ratio de pourcentage entre le chiffre d'affaires et la marge.
+29:05 speaker_1: Mais tu as raison, parce qu'après, il faudrait affiner au sein de la gamme les références. Ou tant pis, que l'un sur bien. 8.
+29:11 Aude NATIVELLE: Je ne crois pas.
+29:22 speaker_1: Par ailleurs, c'est ça va, l'été, il y en a beaucoup quand même. Oui, c'est ça, les bébés, oui, oui, sur le solaire. OK, non, coutellerie miroir et tu sais les vernis, quoi? J'ai peur, J'aurais jamais pensé qu'il remontait autant dans les chiffres.
+29:52 Aude NATIVELLE: Alors, je fais un classement par marge.
+29:56 Aude NATIVELLE: Je pense que si je faisais un classement par chiffre d'affaires, peut-être qu'il n'apparaîtrait pas aussi haut.
+29:59 PHARMACIE DE LA BAIE: Ce qui est important,
+30:02 speaker_1: c'est que tu comprennes ce que tu génères. C'est pas beau.
+30:13 Aude NATIVELLE: Oui, mais alors, Jéline a déjà présenté à Justine, Elle s'est promue tout à l'heure.
+30:18 speaker_1: Elle l'a fait très vite, parce qu'elle m'a dit, c'est Fabien qui te le présentera, Donc elle n'est pas trop rentrée dans le détail.
+30:35 speaker_1: Ok.
+30:35 Aude NATIVELLE: Je peux redescendre.
+30:38 speaker_1: On se recale à un autre moment, il n'y a pas de problème. 11,
+30:43 Fabien BRAULT-SCAILLET: 400. Et on connaît le potentiel, Je savais monter le tableau et Eugénie, vous avez dit le plus près. Donc, c'est pas, ça, Je voulais te voir 11 400 et je voulais débriefer de ça. Donc, beaucoup de merci.
+30:54 Aude NATIVELLE: Non, mais de rien. Je ne vous envoie pas la presse ce soir, je vous l'enverrai demain où je vais vous rajouter. Un peu plus de détails sur les parts de marché et les détails des univers.
+31:03 speaker_1: Ok, super. Merci beaucoup, Aude, en tout cas.
+31:05 Aude NATIVELLE: Avec plaisir. Bonne fin de journée.
+31:07 speaker_1: Bonne soirée.
+31:08 Aude NATIVELLE: Bonsoir. Au revoir. Merci. Bye bye.
+31:14 Fabien BRAULT-SCAILLET: Non, non, Je voulais absolument qu'elle vous le fasse parce qu'on a réussi à avoir les chiffres. Donc, c'est quand même hyper intéressant en termes de prendre conscience de ça. Et notamment, ça devient ancré vraiment. La stratégie d'achat, la prise de conscience de ce qui rapporte, de ce qui ne rapporte pas. Et ça vous permettra aussi de piloter mieux, je pense, les promos ou les sociétés. Du coup, vous avez eu Eugénie aujourd'hui aussi, c'est ça Oui,
+31:45 speaker_1: je l'ai eu tout à l'heure, oui. Ça avait l'air pas mal, donc… J'ai choisi en premier thème, Du coup, là, le même. Mais après, j'ai juste. Me suis rendu compte que j'avais oublié de lui demander pour tous les autres modules, parce que tu m'avais parlé de la contention et compagnie, Et on ne les a pas évoqués, ces modules-là. Et c'est vrai que même pour… Après, je pourrais la recontacter pour avoir plus d'infos, aussi, mais… Oui. … Et que tu puisses les… … Les formats,
+32:15 Fabien BRAULT-SCAILLET: etc. Oui. Une fois que tu as trouvé, que tu as testé, en fonction de si tu trouves ça… Efficace et pertinent, on verra pour après, mais ce que je veux, c'est que tu puisses tester les outils et qu'ils s'approprient avant de lancer les plusieurs. Après, les idées vont être perdues, etc. OK,
+32:45 speaker_1: j'ai pas entendu, je ne pensais pas que Gifar remonterait autant en tout parce que j'ai l'impression qu'on ne le conseillait pas tant. Mais finalement, ça nous permet de faire une MDD que parfois, on dévalorise un peu. On se dit que ce n'est pas ouf, Les packagings sont moches. Moi, j'ai tendance un peu à la… Au final, Elle nous dégage beaucoup de marge et c'est vrai que ça vaut. Le coup peut-être de la booster un peu plus. Oui,
+33:15 Fabien BRAULT-SCAILLET: tu génères des euros sans immobiliser de gros stocks.
+33:20 Fabien BRAULT-SCAILLET: Et en euros, purs, C'est vrai que c'est intéressant.
+33:25 speaker_1: Après, oui, comme tu disais, Vitry, je savais qu'on était haut parce que tu sais, Dans l'analyse de Sherazade, elle avait aussi halluciné sur comment Vitry sortait chez nous.
+33:35 speaker_1: Ça l'avait trop choqué.
+33:37 speaker_1: Elle était retenue plein de fois dessus.
+33:47 speaker_1: Mais je pense que pareil, en fait, avec l'été, Les gens rachètent beaucoup de coupons, de pincées épilées, tout ça, quand ils viennent en vacances. Et du coup, il y a pas mal d'achats d'été, comme pour tout, quoi, en fait.
+33:57 Fabien BRAULT-SCAILLET: Ouais,
+34:00 speaker_1: c'est clair. Et après, quand tu dis que l'été, tout est important, c'est vraiment ça. Tu ne sais pas quoi mettre en avant parce que tout est important et ça devient presque… Ce n'est pas angoissant, mais tu veux que tout se voit, Tu veux que tout soit bien exposé parce que tu sais que c'est les deux mois de l'année où tout va sortir. Donc, en vrai, C'est dur de faire des choix, parfois de qu'est-ce que j'expose, parce que tu voudrais que tout se voit, quoi.
+34:17 Fabien BRAULT-SCAILLET: Oui, absolument.
+34:20 Fabien BRAULT-SCAILLET: C'est sûr que ces petits produits là, effectivement, Surtout que les gens sont plutôt en maillot de bain, donc ils sont plus prudents à leur corps.
+34:31 Fabien BRAULT-SCAILLET: Même si, à Saint-Gilles-de-Libran, la météo te permet d'être en maillot de bain un jour sur sept, mais quand même, pour ce jour-là...
+34:37 speaker_1: Ça dépend des amis.
+34:41 Fabien BRAULT-SCAILLET: Je t'ai fait marrer. Moi, ce que je trouve intéressant dans l'étude... C'est aussi que les choix stratégiques, notamment de référencement NHCO, par exemple, Tu vois tout de suite à quel point une bonne marque, bien vendue, avec des efforts, que tu fais une stratégie, bam, Tu as des euros tout de suite. Ou l'orthocompression, tu vois, bam, c'est pareil, tu as des euros tout de suite. Ton OTC, elle marche de tout sa marge et les gens, ils se serrent tout seuls. Et donc, prendre conscience de ça, c'est moi, Je trouve que c'est toujours passionnant.
+35:13 Fabien BRAULT-SCAILLET: Et aussi, justement, Je me parais d'enchaîner sur le générique, notamment, c'est que comprendre son générique et la marge que ça dégage, c'est hyper stratégique.
+35:23 Fabien BRAULT-SCAILLET: Et notamment, j'ai discuté avec deux pharmaciens qui partent, dont un qui est parti, sur cette histoire de ABM, remise arrière, trop perçue, la baisse du trop perçu.
+35:37 Fabien BRAULT-SCAILLET: Semblerait que, grosso modo, Il était quand même réinjecté des euros dans ABM en compte courant.
+35:48 Fabien BRAULT-SCAILLET: Ces euros-là, vous ne le savez pas, Ils ont été titrés par le nombre d'adhérents avec une somme. Au programme du chiffre d'affaires généré. Ce n'est pas grave, parce que c'est trop tard, mais ce que je veux dire par là, c'est que la vigilance à avoir, c'est que vous ne pouvez pas être rébutable et qui donne petit.
+36:11 Fabien BRAULT-SCAILLET: La conséquence, c'est que tu peux mettre plein d'énergie à faire des choses et sans doute tu as des bonnes remises sur certains trucs, ce n'est pas ce que je dis. Mais tu as besoin de savoir en toute transparence, parce que tu peux accepter cette collaboration, cette coopération, Cet MDD, enfin tous les services, Mais tu dois être au courant de ce qui t'enlève et la raison pour laquelle c'est enlève. C'est ça, mon warning. C'est sans doute pour ça que, effectivement, vous l'aviez dit, c'est le discours qu'avait la commerciale, Elle a dit, Oui, l'année dernière, il y a eu ça, mais à partir de l'année prochaine, ce sera différent. Je crois que c'est ça qu'elle vous avait dit.
+36:52 Fabien BRAULT-SCAILLET: Donc, en tout cas, c'est comme ça, et en tout cas, on a l'explication rationnelle, ça, c'est important.
+36:58 speaker_1: Oui.
+37:00 Fabien BRAULT-SCAILLET: Parce qu'on le voit bien dans l'étude, qu'effectivement, on ne sait pas trop, Il y a un numéro 1, numéro 2, etc. Mais on voit aussi surtout que les efforts que vous faites en termes de référencement et de développement des ventes, ça paye. Donc si tu fais des efforts d'un côté et que de l'autre côté, sur tes nonges, sur des trucs que tu n'as pas choisi, On t'enlève les choses, c'est dommage. C'était ça, mon warning. C'était ça, le point. En l'occurrence, le mec qui m'a dit ça, je peux citer. Son nom, il s'appelle Guillaume Crutter, Tu vois qui, c'est
+37:30 speaker_1: Non.
+37:31 Fabien BRAULT-SCAILLET: C'est un mec qui a été influent, qui a vendu sa pharma, qui était à fond GIFAR, Et là, il a vendu sa pharma, et du coup, il se réinstalle, Et il n'est pas GIFAR. C'est pour ça que j'ai posé la question.
+37:39 speaker_1: C'est pas celui qui fait de l'aroma et tout ça
+37:42 Fabien BRAULT-SCAILLET: Ouais,
+37:45 speaker_1: exactement. Ah, oui, ok, d'accord, C'est ça.
+37:46 Fabien BRAULT-SCAILLET: En tout cas, J'ai eu une discussion avec lui.
+37:53 Fabien BRAULT-SCAILLET: Donc voilà, et j'ai pensé à vous, à des automates vraiment très concentrés, Pour être aussi une opportunité en termes d'emplacement au sol, puisqu'il peut mettre sur des distances meilleures. Je sais que ce n'était pas forcément d'actualité.
+38:10 speaker_1: Non, non, mais l'année dernière, Je n'ai pas regardé ça à PHARMACIE DE LA BAIE, parce que j'allais plus pour prendre des idées, d'autres choses. C'est vrai que je n'ai pas trop fait. Cette PHARMACIE DE LA BAIE, mais peut-être qu'en effet, l'année prochaine, ça vaudrait le coup. Ou il aurait peut-être fallu y aller cette année, mais je t'aide. Garde pour prendre ces données-là. Non,
+38:25 Fabien BRAULT-SCAILLET: mais après, tu sais, tu n'as pas besoin de les prendre. Tu prends tout le temps de toi.
+38:32 speaker_1: Mais c'est que tu as des op à PHARMACIE DE LA BAIE, c'est pour ça que parfois, tu as des cours à faire.
+38:46 Fabien BRAULT-SCAILLET: Qu'est-ce que c'est pour la dynamique depuis la réunion d'équipe
+38:52 speaker_1: Écoute, tu vois, On a testé le fait d'embarquer l'équipe. Donc, J'avais présenté les trois d'angines six titres pendant la réunion parce que finalement, une réunion, Ça passe super vite. Puis, tous les points que j'avais à avoir, On a fini beaucoup de points en one-to-one après. Et j'ai lancé, il y a eu Mars Bleu, qui a commencé en même temps. Donc, on s'est dit qu'on faisait un focus de deux mois sur... La thématique Mercebleu dans le sens facile. Parce que beaucoup de patients de notre cible, On a fait tous des petits rappels sur chaque comptoir pour que tout le monde puisse recruter. Je faisais un point, justement avec les filles tout à l'heure, parce que moi, j'étais la première à me lancer. En deux jours, J'en avais fait huit. Donc, Je Aude NATIVELLE l'équipe un peu à l'ego en une partie.
+39:33 speaker_1: Et puis, en fait, Je me rends compte qu'il y a une partie de l'équipe qui s'est mise, Une autre pas encore, mais de voir, Je pense aussi les prochaines semaines, comment beaucoup de monde se trouve. Sont lancés, peut-être que ça motivera. Ceux qui étaient un petit peu plus à la traîne, aussi derrière.
+39:48 Fabien BRAULT-SCAILLET: En tout cas, tu peux prendre les statistiques sur 15 jours, 3 semaines. Même si tu ne mets pas le code opérateur pour ne pas mettre les gens à défaut, tu fais une liste, tu mets personne 1, personne 2, personne 3, personne, 4, Et juste avec les chiffres en face.
+40:05 Fabien BRAULT-SCAILLET: Les gens, ils savent même où ils se situent.
+40:08 speaker_1: Ok.
+40:10 Fabien BRAULT-SCAILLET: Parce qu'il ne s'agit pas de mettre mal à l'aise ceux qui ne font pas, en tout cas, Je n'ai jamais été un petit temps d'appliquer. Ou tu l'affiches pas d'ailleurs, tu sais, dans le mini-entretien de début de mois, Le Conseil de fer, C'est intéressant de montrer ce petit tableau-là.
+40:29 speaker_1: Ok.
+40:31 speaker_1: Et donc, oui, le... Non,
+40:32 Fabien BRAULT-SCAILLET: d'après, vous, vous tituez-vous, quoi.
+40:35 speaker_1: Toi, tes réunions, équipes, tu sais, tu recommandes d'en faire une tous les combien de temps, Du coup ? Une par mois ? Une par trimestre
+40:42 Fabien BRAULT-SCAILLET: Une par trimestre.
+40:44 speaker_1: Ok.
+40:46 Fabien BRAULT-SCAILLET: Surtout, dans ton cas, Ce qui est intéressant, c'est que la saisonnalité t'oblige à avoir une stratégie, Une activité vachement différente et profiter des temps morts, des périodes un peu plus creuses pour aller travailler. Le fond, les stocks, justement les missions de santé pour les patients pas saisonniers. Par contre, en saison, aller beaucoup plus loin sur le développement du compte associé, etc. Donc tu peux mettre des thématiques intéressantes. Et dans la partie, Retail aussi, justement, Il y en a une où Victor, Tu vois, sur tes promos du mois ou que tu as décidé de référencer pour l'été, c'est super important, ou les choix que tu as fait dans des gammes qui rentreraient, ou dans des solaires, C'est intéressant de leur passer ces messages-là, parce que tu vois, tu te dis, ok, cette année, je vous demande de vendre en priorité notre partenaire numéro un solaire, c'est pour ça, tu vois, donc tu vas donner, ou en moustique, ou les produits de saison, tu vois.
+41:43 Fabien BRAULT-SCAILLET: Ou les stocks à dégager, Ça peut être une espèce de point. nouveauté.
+41:52 Fabien BRAULT-SCAILLET: C'est intéressant de partager aussi les tendances du moment, Voir un truc sur l'orthocompression, Tu trouves des thèmes intéressants, de travail de fond, de travail, santé, de travail, retail ou de travail. business, On va dire le mot, mais c'est ce que ça veut dire.
+42:13 Fabien BRAULT-SCAILLET: Et comme vous suivez plus, si vous suivez bien, même quand on stoppe, pas, Si vous suivez bien le reporting du bar, si vous suivez bien le reporting actuel, si vous suivez bien les TVA 0, notamment, Si vous suivez bien le sell-out des promos et des basses, en fait, il y aura des indicateurs. challenge, Vous allez avoir des indicateurs en permanence en tête. Et donc, Vous pourrez appuyer sur le surstock, sur ce qui peut dégager, sur les nouveautés, sur les émissions, sur…
+42:42 speaker_1: Ok.
+42:42 Fabien BRAULT-SCAILLET: Pendant du trimestre, c'est hyper intéressant.
+42:46 speaker_1: Ok.
+42:52 Fabien BRAULT-SCAILLET: Et peut-être même leur demander s'il y avait une gamme à rentrer, quelle, à quelle ce serait, Parce que peut-être que tu en as deux qui sont sur Instagram à mort et qu'il y a deux, trois marques à faire rentrer avant l'été, quoi.
+43:02 speaker_1: Je ne sais pas,
+43:04 Fabien BRAULT-SCAILLET: les secrètes d'Oli ou...
+43:06 speaker_1: Oui, mais je n'arrive pas à les rentrer. Je n'y arrive pas.
+43:16 speaker_1: Mais secret de l'Oligier s'est rentré. Mais il n'implante pas. Là. C'était revendu. Ah ouais, c'était pour ça. En fait, c'est
+43:29 Fabien BRAULT-SCAILLET: tellement gros qui a tenté une référence. Malik, en 2000. De quoi la pharmacie Atlantis, dans le centre commercial à Nantes, le shampoing qui est rose, là, je ne connais rien, moi, Il en a vendu 1200 unités.
+43:47 speaker_1: Ah, oui, quand même.
+43:48 Fabien BRAULT-SCAILLET: Ça m'a fait halluciner.
+43:52 speaker_1: Oui, je pense qu'il y a un potentiel avec cette game-là, oui.
+43:55 PHARMACIE DE LA BAIE: C'est sympa.
+43:55 Fabien BRAULT-SCAILLET: C'est bien.
+43:57 Fabien BRAULT-SCAILLET: Il faut essayer de rentrer dans ces petits trucs-là avant d'arrêter.
+44:00 speaker_1: Avec un comblément, je suis d'accord. Ma Crème aussi, ça fonctionne, non Oui,
+44:03 speaker_2: ça fonctionne.
+44:12 speaker_2: O.K. bah,
+44:23 PHARMACIE DE LA BAIE: en fait, c'est pas tant des situations, mais c'est c'est c'est vraiment qu'est-ce qu'on a en capacité de demander, de réclamer aussi, Jusqu'où on peut pousser le truc aussi. Ce n'est pas tant des situations, parce qu'on en a eu avec Justine, mais c'est plus vraiment qu'est-ce qu'on peut... Vraiment, où est-ce qu'on peut aller Parce qu'aujourd'hui, un labo arrive, je peux vous faire ci, je peux vous faire ça. Ok, c'est très bien. Il y a des choses qu'on demande forcément.
+45:02 speaker_1: Les périmés.
+45:03 PHARMACIE DE LA BAIE: Oui, les périmés, les choses comme ça. Mais le classique, je pense qu'on ne demande jamais rien d'extraordinaire.
+45:13 Fabien BRAULT-SCAILLET: En fait, il faut que tu te fixes un objectif sur le rendez-vous en avant. Soit c'est un laboratoire partenaire que tu as envie de pousser, Et dans ce cas-là, tu lui présentes comme tel, et donc tu es en mesure de lui dire, Moi, je vais développer, je vais vous mettre en avant, et j'ai besoin de vous médier.
+45:32 Fabien BRAULT-SCAILLET: Soit c'est quelqu'un que tu veux référencer, et l'effort de référencement, Tu vas lui demander de faire un effort de reprise de notre marque, C'est quelque chose que tu veux stopper, et tu lui dis, attendez, ça ne marche pas du tout, et on dit, ok, on remet tout à plat. Mais dans ce cas là, on fait ci, on fait ci et donc vous me reprenez ce qui ne tourne pas, Moi, je référence des trucs, je fais un avant, on fait une formation, Vous mettez un challenge, parce que tu veux redynamiser et que ça ne tourne pas. aujourd'hui, peut-être que tu es sur stock, le mec, il te dit Non, je ne peux rien faire, Ben, moi en fait, je ne peux rien faire non plus, Merci au revoir.
+46:05 Fabien BRAULT-SCAILLET: Mais in fine, c'est vraiment la catégorie. Lettre du Labo Dans quelle catégorie? Je suis, je référence, je veux vraiment développer, je suis neutre et je fais juste du réassort, Je n'en ai rien à foutre, Je réponds à la demande. Ou je peux trouver une solution, ou je peux arrêter. C'est à peu près ça, les cinq situations. Et en fonction des situations, il faut jouer avec les règles.
+46:28 Fabien BRAULT-SCAILLET: Et jouer avec les règles, c'est un jeu. Franchement, c'est du théâtre.
+46:35 Fabien BRAULT-SCAILLET: Et tant pis, je ne fais rien. J'arrête la marche, ce n'est pas grave, je ne serai pas né. Ou OK, on fait un pas, chacun. Et moi, je renie un peu, ma marche. Ou vous ne me reprenez que la moitié, je me débrouille pour le reste. Tu vois Tu trouves des consensus, mais c'est vraiment un jeu. Et celui qui est fermé, le laboratoire qui est fermé et qui ne peut rien faire, Tu ne l'aides, pas, tu réponds à la demande et tu vas te la causer. Même si tu l'avais mis en leader au départ, Parce que j'imagine que vous avez des turnover dans les labos comme tout le monde. Et que de fait, c'est super avec celle-là, Puis hop, ça change et hop, c'est nul. Et maintenant que tu sais à peu près, et on va vous envoyer le détail, Aude, ce qui te rapporte, ce qui ne te rapporte pas, tu sais aussi, c'est ce sur quoi tu vas mettre un curseur en disant OK, NHco, putain, faut que tu tailles par contre perrigo. Vous voyez que tout le laboratoire perrigo de mémoire, il y a 3000 balles et perrigo. T'as vu le nombre de gammes? Enfin, je sais pas tous les produits, mais c'est beaucoup de gammes différentes.
+47:34 Fabien BRAULT-SCAILLET: Copair est toujours dans le Top 3, enfin, c'est la moitié de ta Parma. Donc ils sont bien parce qu'ils ont tellement de produits. Donc si tu veux moi, je trouve que tu as des contraintes, Un Reiki, un Bayer, Tu n'as pas mis le choix. Tu dois faire tes quantités, tu fais tes quantités, Et puis il faut mettre en sorte, Il faut faire en sorte que ça vende. Mais tes choix stratégiques, Alors tu peux faire des choix en début d'année, tu dis OK, Je n'ouvre rien, je vis sur mon stock de l'année dernière, je fais zéro.
+48:08 Fabien BRAULT-SCAILLET: Tu peux aller chercher, L'enjeu, c'est toi, c'est toi, où est-ce que tu veux mettre le curseur, c'est jusqu'où tu es prêt à aller, est-ce que tu es prêt à t'en passer.
+48:19 Fabien BRAULT-SCAILLET: Est-ce que tu es prêt à ça ? Parfois, ça sert à rien d'aller au bout et d'être agressif. Parfois, tu te dis écoutez, D'abord, si vous ne pouvez rien faire, vous savez quoi ? Vous allez vous faire gagner de l'essence Vous m'envoyez, je fais par mail, On va gagner de l'argent tous les deux. Ou alors, si vous voulez qu'on construise quelque chose, alors on construit quelque chose.
+48:41 Fabien BRAULT-SCAILLET: Vous avez forcément des moyens moteurs pour m'aider, pour des avoirs, des copes, etc.
+48:47 Fabien BRAULT-SCAILLET: Et en fait, Toi, tu prends des petites notes et tu te fais une petite file par labo, parce que tu vas comprendre, à chaque labo, tu auras le moyen moteur en tête. Celui qui a un peu de coffre, celui qui a un peu de cop, celui qui a un peu de budget d'avoir, Celui qui va te faire une promo de plus, celui qui va t'arranger sur un truc. Si tu l'as sur un truc, tu vois. C'est ça la subtile. Un challenge, par exemple, que tu transformes en cop pour dégager, Tu vois, où la fille, elle te dit, tu lui dis, ça, vous m'en prenez un peu plus. Si ils ne reprennent pas les produits, vous mettez un peu plus de retour. Comme ça, ça me donne un petit budget de 1€ par boîte en plus pour faire une promo.
+49:25 Fabien BRAULT-SCAILLET: C'est à nous d'être malins.
+49:28 Fabien BRAULT-SCAILLET: Il y en a plein qui vont jouer avec les règles. Si en plus tu es en croissance.
+49:34 Fabien BRAULT-SCAILLET: Celui qui est fermé comme une huître, Tu n'as pas envie de faire du business avec lui.
+49:39 Fabien BRAULT-SCAILLET: Donc, il ne faut pas en faire. Celui qui est moteur, Tu peux jouer le jeu sans prendre de risque.
+49:49 PHARMACIE DE LA BAIE: Ok.
+49:50 Fabien BRAULT-SCAILLET: C'est ça, ton...
+49:52 Fabien BRAULT-SCAILLET: Vraiment, Si tu as un élastique, vous avez un élastique, chacun dans votre main, et vous tirez plus ou moins d'élastique. S'il pète, il pète.
+50:08 Fabien BRAULT-SCAILLET: Il faut que c'est toi qui aies le plus grand bout à la fin.
+50:13 Fabien BRAULT-SCAILLET: Mais vraiment, tu peux être créatif.
+50:20 Fabien BRAULT-SCAILLET: Ne met pas de barrière.
+50:23 Fabien BRAULT-SCAILLET: Parce que le plus dur dans la vie, c'est de dire non.
+50:28 Fabien BRAULT-SCAILLET: C'est le plus dur pour nous, c'est le plus dur pour nous. Quand ils te proposent quelque chose, de dire Non, je ne le fais pas.
+50:35 Fabien BRAULT-SCAILLET: Mais c'est aussi plus dur pour eux parce que quand tu lances quelque chose de dynamique, qui va leur... S'ils voient qu'ils vont faire du chiffre, ils sont comme nous, ils vont en faire du chiffre.
+50:47 Fabien BRAULT-SCAILLET: Donc, vraiment, tu peux dire, voilà, tu as une liste des moyens moteurs, est-ce qu'on peut faire un avoir Non. Une cop Non. Des UG Non. Oui, Enfin, tu vois, améliorer le marmite, c'est quoi ? Là, il te dit, tu ne peux rien faire ainsi que là.
+51:01 Fabien BRAULT-SCAILLET: Donc, on note, on ne fait rien.
+51:06 Fabien BRAULT-SCAILLET: Et après, vous me dites, bon, on fera. C'est vraiment toi qui as la main.
+51:13 Fabien BRAULT-SCAILLET: Les moyens moteurs, Tu les connais tous.
+51:18 Fabien BRAULT-SCAILLET: Ouais, plus ou moins, c'est pas tout ça, cela, oui, ce sont bien parler. Oui, après tout, je sais pas, mais tu vois par exemple challenge sur un produit que tu vas pas vendre, mais le seul chèque de mettre sur autre chose. Tu peux jouer avec des règles dans les rangs à toi, tu peux transformer les euros ailleurs, tu vois par exemple un challenge sur tout site. C'est n'importe quoi des pouxiques, il est bon sur autre chose. Oui, sans soupe, et tu dis, dans ce cas, je le mets sur autre chose, mais vous me compensez autre chose. Si je vous en fais 72, moi, je prends 40 euros sur le même site, et vous, les 30 balles restantes, vous me les compensez. Comment 3 mois d'un euro, par exemple.
+52:29 Fabien BRAULT-SCAILLET: La créativité et la créativité, ça. Parce que si t'es moteur et que t'accompagnes pas, au moins, tu sais ce que t'as à faire.
+52:38 speaker_1: Genre des gros labos, des coopères, des machins, Ils mettent des challenges
+52:40 Fabien BRAULT-SCAILLET: Ouais. Ou ils te reprennent plus d'avoirs que prévus, ou plus de périmètres. Ça arrange. Ils ont tous des moyens moteurs pour t'arranger. C'est après, est-ce qu'ils décident de te le mettre ou pas, quoi. À toi.
+52:55 speaker_1: À toi.
+52:59 Fabien BRAULT-SCAILLET: Parfois, c'est des trucs qui sont faits par le labo, parfois c'est des trucs qu'ils ont, eux-mêmes Et parfois, il y a le budget de faire OK, et c'est pas seulement dans le sens. Ça t'arrange et donc, du coup, ça t'arrange. Et en début de rendez-vous t'as trop de produits? Il reste trop de ça, je peux pas le faire. Est ce qu'on en fait pour dégager avant pour se rachète avant la avant l'ouverture du marché de la saison avant la saison? Quoi, par exemple? Joie des obioles, par exemple. C'est tout en train à la fin de la saison, à l'ouverture de la saison. Il faut avoir les 50% par exemple, ça te saoule au fond de toi d'avoir eu 50% l'année dernière et de rouvrir à 45% Oui, oui, ça oui, OK, et donc tu dis OK? Je rouvre à 45% parce que j'ai pas les moyens et avec ce que je vais vous acheter, par exemple, OK Peut-être qu'il s'en fout parce que Rohan, c'est sur son secteur.
+54:42 Fabien BRAULT-SCAILLET: Moi, je trouve toujours une pharmacie qui est sur son secteur parce que ça ne rentre pas sur son chiffre.
+54:57 speaker_1: C'est vrai que tu prends en confiance aussi à force de le faire. Il y a des trucs que j'aurais jamais négocié il y a 3 ans que maintenant, en ayant tenté, tu te rends compte que oui, ces trucs des huiles prodigieuses. Le marché, finalement, n'avait pas assez, mais elle nous a compensé pour avoir la remise. Max, il faut y aller au culot un peu aussi. Oui, mais tu vois. Je pense qu'il voit aussi merci,
+55:25 Fabien BRAULT-SCAILLET: voire aussi sans doute si vous changez un peu. Le parcours client, Donc ils vont avoir envie d'y être, ils vont avoir envie de faire partie de l'aventure. Et la meilleure chose que vous pouvez faire, c'est que ça y soit, Motivé de vous aider. Et donc vous-même, vous êtes hyper enthousiaste.
+55:41 speaker_1: Oui, j'ai un point, Enfin, ça devient, Les accords avec, Enfin, les échanges avec L'Oréal deviennent vraiment… On a l'impression que c'est du ciment. Il n'y a plus rien de négociable. Les commerciaux sont ultra cons. Nous, on a un peu fermé la discussion aussi à force. On leur met des tirs parce qu'on dit qu'il n'y a pas de relations commerciales. Nous, on ne joue plus le jeu. Pourtant, on s'en rend compte qu'on est en croissance chez eux. Tu ne peux pas t'en passer quand même et ils ne font aucun effort. Il n'y a jamais de BRI. On n'a jamais aucune... À part les bri d'été, tu vois. Mais ils s'en foutent. On a des visées par jour.
+56:22 speaker_1: Il y a un trait national qu'on atteint qu'en fonction des paliers de commandes, qu'on passe, ou que sur certaines références.
+56:28 speaker_1: Et en fait, à part le bri solaire, On n'a rien en BRI.
+56:33 speaker_1: Et cette année, on a divisé par deux notre quantité solaire pour leur faire un peu les pieds, Parce qu'il nous en restait beaucoup, qu'ils ne voulaient pas, nous les reprendre, qu'il y avait des abattements, que des trucs un peu lunaires. Donc, on a divisé par deux notre quantité, Ils n'en avaient rien à foutre. La commerciale, vraiment, mais rien à péter. Elle nous a su créer notre challenge solaire, alors que pourtant, on a des gros faiseurs. C'est pas déconnant ce qu'on fait chez eux, mais ils s'en foutent, Il n'y a pas de marge de Manu, je pense qu'ils s'en foutent vraiment. C'est nichonique à la limite. La commerciale, elle, sert à rien, elle vient au rendez-vous c'était juste pour dire qu'elle était passée, sinon, il faut vraiment switcher,
+57:19 Fabien BRAULT-SCAILLET: c'est vrai. Après, il ya des produits rose posé, mais c'est pas grave. Tu vas pas rater beaucoup de ventes, c'est vrai qu'il faut pas vous dire qu'elles ne vendent pas. Et puis, quand il y a une prescription, tu soutiens. Donc c'est important bien l'évolution de ce qui est en train d'arriver, de ce que vous faites, Et ça montre bien aussi les limites sur votre grosse marge, les limites de la compréhension par rapport au modèle économique de Gifar. Et en même temps, ça aussi, ça appuie bien le fait que la NDD, ça rapporte de l'argent.
+58:05 speaker_1: J'ai une dernière question, on se questionne là parce que les accords Cooper, ils sont tombés, Et aujourd'hui, du coup, nous maintenant, c'est référencé sur la plateforme GIFAR. Les remises pour certains sont quasi équivalentes, des fois à 2% près. Sauf qu'en fait, le dilemme, C'est est-ce qu'on joue en direct Parce que parfois, tu as des Op. 24 Osmosoft Haché, 24 gratuits, ce que tu n'as pas sur la plateforme. Mais sur la plateforme, ça rentre dans notre triplex. Tous chiffres passés sur la plateforme gonflent notre enveloppe finale, qui nous sera reversée aussi jusqu'à peut-être 14%.
+58:37 Fabien BRAULT-SCAILLET: C'est une bonne question. C'est une très bonne question. Parce qu'en théorie... T'auras mieux en direct, mais je ne me rends pas compte. Je ne me rends pas compte jusqu'à peut-être.
+58:52 Fabien BRAULT-SCAILLET: C'est le peut-être qui est un peu dur.
+58:55 speaker_1: En fait, le peut-être est conditionné par le volume qu'on va leur passer. Et si on atteint 500 000 ou 600 000, on peut monter jusqu'à 14 %, 16 % même d'ailleurs, de tout ce qu'on a passé.
+59:06 speaker_1: Donc, c'est énorme. Ce qui peut être reversé au final. Donc, tu dis bon, On t'enquête.
+59:18 Fabien BRAULT-SCAILLET: OK, je pense que pour son commercial, c'est pas assez, mais les probants en direct, ça paraît assez stratégique. Parce que c'est con sur un autre fauteuil. En plus, l'été chez Toi, d'avoir si tu as 35 ou 50 et moi quand même, il ya. L'autre chose, c'est que tu sais ce que ma maman et ton assaut. Et à l'heure du temps, dans et sur la plateforme, tu en as moins.
+59:51 Fabien BRAULT-SCAILLET: Spontanément, tu n'achèteras pas 36 sur un plateforme, d'un coup, tu ne revendras pas 36. Or, la profondeur de certaines offres, ça fait vendre, quoi? Je te dirais un nobiole ou un antiseptique. Bon, voilà, ça me paraît être raté. La question que je me posais, c'est tu as? Une visibilité du chiffre mois par mois de ce qui est passé depuis le début de l'année. Ou pas
+01:00:19 speaker_1: Tu peux voir oui, tu suis ton enveloppe, tu es bon. En fait.
+01:00:23 Fabien BRAULT-SCAILLET: Ok.
+01:00:27 Fabien BRAULT-SCAILLET: Si pour des six mois, vous regardez où vous en êtes, et après, vous jugulez entre les deux. Tu vois,
+01:00:36 speaker_1: là, déjà, On est à 188 000 au 11 mars. Donc, tu vois, l'objectif, c'est d'atteindre au moins le palier du 500 000 sur les premiers mois.
+01:00:48 speaker_1: Donc, en fait, c'est le calcul qui se dit, est-ce que, pourtant, Copair, C'est un gros labo, donc il va nous plomber si on le passe plus en direct que sur la plateforme.
+01:00:58 PHARMACIE DE LA BAIE: Je tempère ça dans le sens où, comme là, on passe en Optimax, en fait, tous les flux poussés, ils doublent, en fait. Tous nos flux poussés, doublent par rapport à la stratégie qu'on avait avant. Donc, j'ai ajouté, Ce n'est pas les 40 Osmosoft et les 60 Dacryocérum qui vont faire la DIFF dans le sens où... Déjà, en fait, nos flux poussés vont doubler sur un an, donc ça va largement compenser ce qu'on passe en direct. À mon avis, le plus tôt, on passe le match. Il y a un truc de ce que vous m'avez dit, que je n'y crois pas, parce que 500 mille balles, ils vont te reverser. 15 %
+01:01:30 speaker_1: de 500 mille balles ils vont te faire un chèque de 75 000 euros non en fait ça c'est tout ton chiffre que tu passes sur la plateforme et eux ils te reversent une partie de l'enveloppe c'est des produits qui sont estampillés triplex et c'est 16 % de cette enveloppe là qui t'est reversée Mais beaucoup de choses.
+01:01:50 speaker_1: Si, c'est pas mal quand même. En change, c'est beaucoup de TVA 20.
+01:01:56 speaker_1: Genre, tes pansements.
+01:01:58 speaker_1: Il y a énormément de choses. Si tu voyais tout ce qui est triplex, quand même dans l'enveloppe globale, ça fait une belle somme. Je ne sais plus,
+01:02:03 PHARMACIE DE LA BAIE: j'avais une autre. J'avais quelques-unes.
+01:02:12 Fabien BRAULT-SCAILLET: C'est bien de faire un mix et de suivre l'enveloppe.
+01:02:15 Fabien BRAULT-SCAILLET: Tu regardes combien tu en fais par mois à peu près de ton enveloppe, Tu divises par 12 et puis tu sais à peu près ce que tu vas atteindre assez rapidement. Vu ce que tu racontes, ça veut dire que tu fais quasiment 30 000 balles par mois et on est le 18 mars, même plus que ça, 40 000 balles. Donc 4 x 12, 40 000, ça fait 500, tu les as déjà, tu vois.
+01:02:32 speaker_1: Je ne sais pas combien on est. Oui, tu vois, il y a des choses, ce n'est pas vraiment évident.
+01:02:42 speaker_1: Je suis d'accord avec Toi que ce n'est pas simple.
+01:02:50 speaker_1: Pour tous les gifards qui sont pro-gifard et ceux qui étaient aux Commissions Achats et compagnie, ils te disent de passer tout sur la plateforme. Là, tu vois, au 11 mars, J'ai 36 000 euros de mon assiette. bonus.
+01:03:01 speaker_1: Donc, c'est 16 % de 36 000 pour l'instant qui peut m'être versé. Donc, ça fait déjà 5 800 que je peux toucher. Plus je la gonfle, plus c'est dans mon intérêt.
+01:03:12 Fabien BRAULT-SCAILLET: Oui, mais tu sais pas au détriment de ce que tu auras de l'autre côté, tu sais.
+01:03:16 speaker_1: C'est pour ça que c'est un calcul, c'est difficile de savoir, tu vois. Il faut que si tu les verses pas,
+01:03:20 Fabien BRAULT-SCAILLET: si tu veux, c'est un calcul.
+01:03:22 speaker_1: Triple axe, C'est sûr qu'il verse. C'est les trois perçus que tu étais pas sûr de toucher. Triple axe, c'est sûr.
+01:03:28 PHARMACIE DE LA BAIE: Oui, ça monte à quand même...
+01:03:30 PHARMACIE DE LA BAIE: Comment on avait calculé
+01:03:31 speaker_1: Je sais plus.
+01:03:34 PHARMACIE DE LA BAIE: C'est pas... Non,
+01:03:35 Fabien BRAULT-SCAILLET: c'est...
+01:03:46 Fabien BRAULT-SCAILLET: Ok. Bon, il faut que je vous laisse parce que j'ai quelqu'un d'autre après. Puis, après, j'ai mon webinaire.
+01:03:51 speaker_1: Ok, ça, marche. Je ne sais plus quand est-ce qu'on a rendez-vous, semaine pro, je crois.
+01:03:55 Fabien BRAULT-SCAILLET: La semaine pro,
+01:03:56 speaker_1: oui. On fera le point octagone du coup. J'ai plein mal de questions.
+01:03:59 Fabien BRAULT-SCAILLET: On fera le point octagone parce que moi, j'ai rempli.
+01:04:04 speaker_1: Ça m'a fait penser à plein de questions en défilant la liste.
+01:04:08 Fabien BRAULT-SCAILLET: C'est l'objectif. C'est l'objectif que justement, tu as quand même bien travaillé entre-temps. Tu vas le refaire, c'est le même, avec le regard nouveau, avec tout ce qui s'est passé chez toi. Et donc, ça va te soulever des questions et des process à mettre en place avant la fin. Et moi, Je vais aussi mettre ce que j'ai perçu en termes d'évolution.
+01:04:27 Fabien BRAULT-SCAILLET: Ok.
+01:04:28 speaker_1: Trop bien. Trop bien. Merci, Fabien. Et tu feras un récap de PHARMACIE DE LA BAIE dans un vocal de trucs que tu as vu de bien.
+01:04:35 Fabien BRAULT-SCAILLET: Ouais, après, dans les allées, beaucoup. Mais ouais, ça, marche, je te le dirais.
+01:04:40 speaker_1: Bonne soirée.
+01:04:41 Fabien BRAULT-SCAILLET: Bonne soirée. Ciao. Ciao.
